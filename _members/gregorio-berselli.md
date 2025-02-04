@@ -1,10 +1,12 @@
 ---
 name: Gregorio Berselli
-image: https://avatars.githubusercontent.com/u/64806874?v=4
+image: https://github.com/Grufoony.png
 role: phd
 group: alum
 links:
+  home-page: https://www.unibo.it/sitoweb/gregorio.berselli2/en
   github: Grufoony
+  email: gregorio.berselli2@unibo.it
 ---
 
 PhD student in Applied Physics and Complex Systems

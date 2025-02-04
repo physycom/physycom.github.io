@@ -4,7 +4,9 @@ image: https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1003466&I
 role: phd
 group: alum
 links:
+  home-page: https://www.unibo.it/sitoweb/filippo.dalla3/en
   github: filippodll
+  email: filippo.dalla3@unibo.it
 ---
 
 PhD student in Applied Physics and Complex Systems
