@@ -7,4 +7,4 @@ links:
   github: Grufoony
 ---
 
-Example text
+PhD student in Applied Physics and Complex Systems
