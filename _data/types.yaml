@@ -34,6 +34,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+researcher:
+  icon: fa-solid fa-user
+  description: Researcher
+
 # general
 
 link:
