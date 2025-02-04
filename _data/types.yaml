@@ -2,6 +2,14 @@
 
 # team member roles
 
+full-professor:
+  icon: fa-solid fa-user-tie
+  description: Full Professor
+
+associate-professor:
+  icon: fa-solid fa-user-tie
+  description: Associate Professor
+
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator

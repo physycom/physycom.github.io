@@ -2,7 +2,8 @@
 name: Gregorio Berselli
 image: https://github.com/Grufoony.png
 role: phd
-group: alum
+description: Complex Urban Systems
+affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/gregorio.berselli2/en
   github: Grufoony
