@@ -18,6 +18,16 @@
   tags:
     - resource
 
+- title: Posters
+  subtitle: posters presented at workshops or conferences
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: The posters refer to topics related to the Bologna Digital Twin project and concern urban mobility, infrastructure energy and urban green heritage for the city of Bologna.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
 - title: Cool Tutorial
   subtitle: a subtitle
   image: images/photo.jpg
