@@ -22,7 +22,7 @@
   subtitle: posters presented at workshops or conferences
   group: featured
   image: images/photo.jpg
-  link: https://github.com/physycom/website/tree/main/_posters
+  link: https://github.com/physycom/website/tree/main/_posters/input-html.html
   description: The posters refer to topics related to the Bologna Digital Twin project and concern urban mobility, infrastructure energy and urban green heritage for the city of Bologna.
   repo: greenelab/lab-website-template
   tags:
