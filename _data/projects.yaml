@@ -8,25 +8,26 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: VEO
+  subtitle: (H2020)
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/veo.jpg
+  link: https://www.veo-europe.eu/
+  description: (Versatile Emerging infectious disease Observatory) the project aims to build a Versatile Emerging infectious disease Observatory (VEO) for the generation and distribution of high-quality actionable information for evidence-based early warning, risk assessment and monitoring of Emerging Infectious Diseases and Antimicrobial resistance. This is an iterative process between data science and technology experts, disease experts, social scientists, and citizen scientists.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Posters
-  subtitle: posters presented at workshops or conferences
+- title: OPERANDUM
+  subtitle: (H2020)
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/physycom/website/tree/main/_posters
-  description: The posters refer to topics related to the Bologna Digital Twin project and concern urban mobility, infrastructure energy and urban green heritage for the city of Bologna.
+  image: images/operandum.jpg
+  link: https://www.operandum-project.eu/
+  description: OPEn-air laboRAtories for Nature baseD solUtions to Manage hydro-meteo risks. The objective of OPERANDUM is to reduce hydro-meteorological risks in European territories through co-designed, co-developed, deployed, tested and demonstrated innovative green and blue/grey/hybrid NBS, and push business exploitation. It aims provision of science-evidence for the usability of NBS, best practices for their design based on participatory processes.
   repo: greenelab/lab-website-template
   tags:
-    - resource 
+    - resource
+
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -38,20 +39,3 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

@@ -21,6 +21,6 @@ Here there are the projects we as a lab partecipated in.
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %} -->
