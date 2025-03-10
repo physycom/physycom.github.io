@@ -81,7 +81,7 @@ Meet the people running the lab, and get in touch!
 
 {%
   include feature.html
-  image="images/slides.png"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
