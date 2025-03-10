@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: S.LI.DES.
+  subtitle: (IT-HR 2021-2027)
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/slides.png
+  link: https://programming14-20.italy-croatia.eu/web/slides
+  description: (Smart strategies for sustainable tourism in LIvely cultural DEStinations) the project aims at fostering cross border cooperation among cultural destinations in the Programme area and the joint planning of smart strategies to support more sustainable and balanced territorial development through the promotion of tangible and intangible cultural heritage, in particular those assets shaping the identity of the destinations.
   repo: greenelab/lab-website-template
   tags:
     - resource
