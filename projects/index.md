@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The City Science Laboratory engages in research projects that enhance urban sustainability, resilience, and data-driven decision-making. We collaborate across disciplines to develop innovative solutions in mobility, climate adaptation, and cultural heritage preservation. In particular, the projects focus on smart strategies for sustainable tourism, an observatory for early warning and risk assessment of emerging infectious diseases, and the developing of nature-based solutions to mitigate hydro-meteorological risks. Through these initiatives, we contribute to advancing scientific methodologies and computational tools for urban and environmental challenges. 
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -22,6 +21,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %} -->
