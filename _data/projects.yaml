@@ -11,7 +11,7 @@
 - title: VEO
   subtitle: (H2020)
   group: featured
-  image: images/veo.jpg
+  image: images/veo.png
   link: https://www.veo-europe.eu/
   description: (Versatile Emerging infectious disease Observatory) the project aims to build a Versatile Emerging infectious disease Observatory (VEO) for the generation and distribution of high-quality actionable information for evidence-based early warning, risk assessment and monitoring of Emerging Infectious Diseases and Antimicrobial resistance. This is an iterative process between data science and technology experts, disease experts, social scientists, and citizen scientists.
   repo: greenelab/lab-website-template
@@ -21,7 +21,7 @@
 - title: OPERANDUM
   subtitle: (H2020)
   group: featured
-  image: images/operandum.jpg
+  image: images/operandum.png
   link: https://www.operandum-project.eu/
   description: OPEn-air laboRAtories for Nature baseD solUtions to Manage hydro-meteo risks. The objective of OPERANDUM is to reduce hydro-meteorological risks in European territories through co-designed, co-developed, deployed, tested and demonstrated innovative green and blue/grey/hybrid NBS, and push business exploitation. It aims provision of science-evidence for the usability of NBS, best practices for their design based on participatory processes.
   repo: greenelab/lab-website-template
