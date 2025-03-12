@@ -1,9 +1,20 @@
 - title: S.LI.DES.
   subtitle: (IT-HR 2021-2027)
-  group: featured
+  group: highlighted
   image: images/slides.png
   link: https://programming14-20.italy-croatia.eu/web/slides
   description: (Smart strategies for sustainable tourism in LIvely cultural DEStinations) the project aims at fostering cross border cooperation among cultural destinations in the Programme area and the joint planning of smart strategies to support more sustainable and balanced territorial development through the promotion of tangible and intangible cultural heritage, in particular those assets shaping the identity of the destinations.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+
+- title: VENICE SMART CONTROL ROOM
+  subtitle: (MindIcity)
+  group: highlighted
+  image: images/mindicity.png
+  link: https://www.fabbricadigitale.com/smart-control-room-venezia-mindicity/
+  description: The Venice Smart Control Room is an innovative project that provides comprehensive monitoring of the city by collecting data from various systems and sensors. Powered by MindIcity, a platform leveraging AI, Big Data Analytics, IoT, and Cloud Computing, it enables real-time and historical data analysis for predictive modeling and simulations. This facilitates informed decision-making in areas such as safety and mobility, offering administrators and operators immediate insights into critical urban dynamics.
   repo: greenelab/lab-website-template
   tags:
     - resource
