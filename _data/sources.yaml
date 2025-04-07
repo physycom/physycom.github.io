@@ -17,4 +17,11 @@
   repo: greenelab/meta-review
 
 - id: doi:10.1088/1742-5468/ac4c40
+  type: paper
+  description: In this paper, we cope with the problem of the existence of universal features for pedestrian, bike and vehicular urban mobility. In particular, we propose the use of travel time as the universal energy for the mobility and we define a simple survival model that explains the travel time distribution of the different mobility types.
+  tags:
+    - urban mobility
+    - statistics
+    - multimodal
+
 
