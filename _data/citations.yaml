@@ -1030,6 +1030,73 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.21428/93b7ef64.ec022085
+  title: Exploring TV Seriality and Television Studies through Data-Driven Approaches
+  authors:
+  - Mirko Degli Esposti
+  - Guglielmo Pescatore
+  publisher: 'Audiovisual Data: Data-Driven Perspectives for Media Studies. 13th Media
+    Mutations International Conference'
+  date: '2023-07-10'
+  link: https://doi.org/g9dm7x
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.2.033477
+  title: Dynamics of transposable elements generates structure and symmetries in genetic
+    sequences
+  authors:
+  - Giampaolo Cristadoro
+  - Mirko Degli Esposti
+  - Eduardo G. Altmann
+  publisher: Physical Review Research
+  date: '2020-09-23'
+  link: https://doi.org/ghgg2r
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-34136-w
+  title: The common origin of symmetry and structure in genetic sequences
+  authors:
+  - Giampaolo Cristadoro
+  - Mirko Degli Esposti
+  - Eduardo G. Altmann
+  publisher: Scientific Reports
+  date: '2018-10-25'
+  link: https://doi.org/gfk9bj
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/199323
+  title: The common origin of symmetry and structure in genetic sequences
+  authors:
+  - G. Cristadoro
+  - M. Degli Esposti
+  - E.G. Altmann
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-06'
+  link: https://doi.org/gkvnd4
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2015.0227
+  title: Characterization of DNA methylation as a function of biological complexity
+    via dinucleotide inter-distances
+  authors:
+  - Giulia Paci
+  - Giampaolo Cristadoro
+  - Barbara Monti
+  - Marco Lenci
+  - Mirko Degli Esposti
+  - Gastone C. Castellani
+  - Daniel Remondini
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2016-03-13'
+  link: https://doi.org/gknf3p
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
