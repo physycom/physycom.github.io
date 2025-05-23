@@ -101,7 +101,7 @@ jobs:
               .replace(/(^  email: ).*$/m, "$1contact@${{ env.USER }}.com")
               .replace(/(^  github: ).*$/m, "$1${{ env.USER }}")
               .replace(/(^  twitter: ).*$/m, "$1${{ env.USER }}")
-              .replace(/(^  youtube: ).*$/m, "$1${{ env.USER }}");
+              .replace(/(^  youtube: ).*$/m, "$1@${{ env.USER }}");
             writeFileSync(file, contents);
 
       - name: Personalize homepage for user
