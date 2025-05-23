@@ -23,7 +23,8 @@ Contact us
 %}
 {%
   include button.html
-  type="Via Irnerio, 46, 40126 Bologna BO, Italy"
+  type="address"
+  label="Via Irnerio, 46, 40126 Bologna BO, Italy"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/pCXJgtGRGANLS8oz7"
 %}
