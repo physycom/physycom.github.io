@@ -15,6 +15,12 @@ The City Science Laboratory engages in research projects that enhance urban sust
 
 {% include section.html %}
 
+## Highlighted
+
+{% include list.html component="card" data="projects" filter="group == 'highlighted'" %}
+
+{% include section.html %}
+
 ## Featured
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}

@@ -1,247 +1,1109 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1088/1742-5468/ac4c40
+  title: A survival model to explain the statistical properties of multimodal mobility
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - C Mizzi
+  - A Fabbri
+  - G Colombini
+  - F Bertini
+  - A Bazzani
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2022-02-01'
+  link: https://doi.org/g89wjq
+  orcid: 0000-0002-9633-0017
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  description: In this paper, we cope with the problem of the existence of universal
+    features for pedestrian, bike and vehicular urban mobility. In particular, we
+    propose the use of travel time as the universal energy for the mobility and we
+    define a simple survival model that explains the travel time distribution of the
+    different mobility types.
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - urban mobility
+  - statistics
+  - multimodal
+- id: doi:10.1103/PhysRevAccelBeams.24.094002
+  title: Adiabaticity of emittance exchange due to crossing of the coupling resonance
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - A. Bazzani
+  - F. Capoani
+  - M. Giovannozzi
+  - "A.\u2009I. Neishtadt"
+  publisher: Physical Review Accelerators and Beams
+  date: '2021-09-24'
+  link: https://doi.org/g89wjr
+  orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/978-88-470-4008-3_16
+  title: "Modellizzazione della mobilit\xE0 urbana. Una nuova sfida per la teoria\
+    \ dei sistemi dinamici"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Armando Bazzani
+  - Sandro Rambaldi
+  - Bruno Giorgini
+  publisher: UNITEXT
+  date: '2021-01-01'
+  link: https://doi.org/g89wjs
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-69236-0_3
+  title: Stochastic Properties of Colliding Hard Spheres in a Non-equilibrium Thermal
+    Bath
+  authors:
+  - Armando Bazzani
+  - Silvia Vitali
+  - Carlo E. Montanari
+  - Matteo Monti
+  - Sandro Rambaldi
+  - Gastone Castellani
+  publisher: SEMA SIMAI Springer Series
+  date: '2021-01-01'
+  link: https://doi.org/g89wjt
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19272/202011402004
+  title: A stochastic compartmental model to simulate the Covid-19 epidemic spread
+    on a simple network
+  authors:
+  - Armando Bazzani
+  - Sandro Rambaldi
+  - Enrico Lunedei
+  publisher: Theoretical Biology Forum
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://doi.org/gk7jm6
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjp/s13360-020-00123-2
+  title: Analysis of the non-linear beam dynamics at top energy for the CERN Large
+    Hadron Collider by means of a diffusion model
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - A. Bazzani
+  - M. Giovannozzi
+  - E. H. Maclean
+  publisher: The European Physical Journal Plus
+  date: '2020-01-01'
+  link: https://doi.org/g89wjw
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physo.2020.100036
+  title: 'BoCXS: A compact multidisciplinary X-ray source'
+  authors:
+  - A. Bazzani
+  - P. Cardarelli
+  - "G. Patern\xF2"
+  - M. Placidi
+  - A. Taibi
+  - G. Turchetti
+  publisher: Physics Open
+  date: '2020-12-01'
+  link: https://doi.org/g89wjx
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-59036-w
+  title: Frailness and resilience of gene networks predicted by detection of co-occurring
+    mutations via a stochastic perturbative approach
+  authors:
+  - Matteo Bersanelli
+  - Ettore Mosca
+  - Luciano Milanesi
+  - Armando Bazzani
+  - Gastone Castellani
+  publisher: Scientific Reports
+  date: '2020-02-14'
+  link: https://doi.org/g89wjz
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0237207
+  title: 'Gut microbiota ecology: Biodiversity estimated from hybrid neutral-niche
+    model increases with health status and aging'
+  authors:
+  - Claudia Sala
+  - Enrico Giampieri
+  - Silvia Vitali
+  - Paolo Garagnani
+  - Daniel Remondini
+  - Armando Bazzani
+  - Claudio Franceschi
+  - Gastone C. Castellani
+  publisher: PLOS ONE
+  date: '2020-10-30'
+  link: https://doi.org/g89wj2
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-41120-6_1
+  title: Modelling Ecological Systems from a Niche Theory to Lotka-Volterra Equations
+  authors:
+  - Paolo Freguglia
+  - Eleonora Andreotti
+  - Armando Bazzani
+  publisher: SEMA SIMAI Springer Series
+  date: '2020-01-01'
+  link: https://doi.org/gh9q74
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19272/201911402002
+  title: A Dynamical Model for Sympatric Speciation in an Ecological Niche
+  authors:
+  - Armando Bazzani
+  - Raffaele D'Ambrosio
+  - Maddalena Del Gallo
+  - Ezio Venturino
+  - Paolo Freguglia
+  publisher: Theoretical Biology Forum
+  date: '2019-01-01'
+  link: https://doi.org/g89wj3
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevAccelBeams.22.104003
+  title: Advances on the modeling of the time evolution of dynamic aperture of hadron
+    circular accelerators
+  authors:
+  - A. Bazzani
+  - M. Giovannozzi
+  - "E.\u2009H. Maclean"
+  - "C.\u2009E. Montanari"
+  - "F.\u2009F. Van der Veken"
+  - W. Van Goethem
+  publisher: Physical Review Accelerators and Beams
+  date: '2019-10-24'
+  link: https://doi.org/g89wj4
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.laa.2018.01.009
+  title: On the multiplicity of Laplacian eigenvalues and Fiedler partitions
+  authors:
+  - Eleonora Andreotti
+  - Daniel Remondini
+  - Graziano Servizi
+  - Armando Bazzani
+  publisher: Linear Algebra and its Applications
+  date: '2018-05-01'
+  link: https://doi.org/gc9q7d
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjds/s13688-018-0168-2
+  title: Unraveling pedestrian mobility on a road network using ICTs data during great
+    tourist events
+  authors:
+  - Chiara Mizzi
+  - Alessandro Fabbri
+  - Sandro Rambaldi
+  - Flavio Bertini
+  - Nico Curti
+  - Stefano Sinigardi
+  - Rachele Luzi
+  - Giulia Venturi
+  - Micheli Davide
+  - Giuliano Muratore
+  - Aldo Vannelli
+  - Armando Bazzani
+  publisher: EPJ Data Science
+  date: '2018-10-22'
+  link: https://doi.org/gfmbch
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms12600
+  title: A stochastic model of randomly accelerated walkers for human mobility
+  authors:
+  - Riccardo Gallotti
+  - Armando Bazzani
+  - Sandro Rambaldi
+  - Marc Barthelemy
+  publisher: Nature Communications
+  date: '2016-08-30'
+  link: https://doi.org/f86h4w
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19272/201611402003
+  title: Master Equation and Relative Species Abundance Distribution for Lotka-Volterra
+    Models of Interacting Ecological Communities
+  authors:
+  - Armando Bazzani
+  - Gastone Castellani
+  - Enrico Giampieri
+  - Claudia Sala
+  publisher: Theoretical Biology Forum
+  date: '2016-01-01'
+  link: https://doi.org/g89wj5
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1400/240192
+  title: 'Dynamical Systems on Graphs : from Random Walks to Transportation Networks'
+  authors:
+  - Armando Bazzani
+  publisher: 'Theoretical Biology Forum : 108, 1/2, 2015'
+  date: '2015-01-01'
+  link: https://doi.org/g89wj6
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219525915500095
+  title: MODELING TRAFFIC FLUCTUATIONS AND CONGESTION ON A ROAD NETWORK
+  authors:
+  - E. ANDREOTTI
+  - A. BAZZANI
+  - S. RAMBALDI
+  - N. GUGLIELMI
+  - P. FREGUGLIA
+  publisher: Advances in Complex Systems
+  date: '2015-05-01'
+  link: https://doi.org/f7skfb
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjds/s13688-015-0055-z
+  title: Understanding the variability of daily travel-time expenditures using GPS
+    trajectory data
+  authors:
+  - Riccardo Gallotti
+  - Armando Bazzani
+  - Sandro Rambaldi
+  publisher: EPJ Data Science
+  date: '2015-11-04'
+  link: https://doi.org/g89wj7
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.89.042915
+  title: Analysis of adiabatic trapping for quasi-integrable area-preserving maps
+  authors:
+  - Armando Bazzani
+  - Christopher Frye
+  - Massimo Giovannozzi
+  - "C\xE9dric Hernalsteens"
+  publisher: Physical Review E
+  date: '2014-04-25'
+  link: https://doi.org/f57ztq
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.crme.2014.07.004
+  title: Case studies in space charge and plasma acceleration of charged beams
+  authors:
+  - Armando Bazzani
+  - Massimo Giovannozzi
+  - Pasquale Londrillo
+  - Stefano Sinigardi
+  - Giorgio Turchetti
+  publisher: "Comptes Rendus. M\xE9canique"
+  date: '2014-08-06'
+  link: https://doi.org/g89wj8
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physa.2013.08.049
+  title: Modeling mutant distribution in a stressed Escherichia coli bacteria population
+    using experimental data
+  authors:
+  - Armando Bazzani
+  - Renato Fani
+  - Paolo Freguglia
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2014-01-01'
+  link: https://doi.org/f5j5nf
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.89.012911
+  title: Stochastic approach to diffusion inside the chaotic layer of a resonance
+  authors:
+  - "Mart\xEDn F. Mestre"
+  - Armando Bazzani
+  - Pablo M. Cincotta
+  - Claudia M. Giordano
+  publisher: Physical Review E
+  date: '2014-01-13'
+  link: https://doi.org/g7wkph
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11135-012-9773-5
+  title: 'The physics of the city: pedestrians dynamics and crowding panic equation
+    in Venezia'
+  authors:
+  - Elisa Omodei
+  - Armando Bazzani
+  - Sandro Rambaldi
+  - Paolo Michieletto
+  - Bruno Giorgini
+  publisher: Quality &amp; Quantity
+  date: '2012-10-07'
+  link: https://doi.org/f5nmfr
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4891515
+  title: The role of non-equilibrium fluxes in the relaxation processes of the linear
+    chemical master equation
+  authors:
+  - Luciana Renata de Oliveira
+  - Armando Bazzani
+  - Enrico Giampieri
+  - Gastone C. Castellani
+  publisher: The Journal of Chemical Physics
+  date: '2014-08-11'
+  link: https://doi.org/g89wj9
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physa.2012.09.005
+  title: "Analysis of noise-induced bimodality in a Michaelis\u2013Menten single-step\
+    \ enzymatic cycle"
+  authors:
+  - Daniel Remondini
+  - Enrico Giampieri
+  - Armando Bazzani
+  - Gastone Castellani
+  - Amos Maritan
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2013-01-01'
+  link: https://doi.org/g89wkb
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-5468/2013/10/P10022
+  title: Entropic measures of individual mobility patterns
+  authors:
+  - Riccardo Gallotti
+  - Armando Bazzani
+  - Mirko Degli Esposti
+  - Sandro Rambaldi
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2013-10-24'
+  link: https://doi.org/g89wkc
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0129183113920010
+  title: 'ERRATUM: "TOWARDS A STATISTICAL PHYSICS OF HUMAN MOBILITY"'
+  authors:
+  - RICCARDO GALLOTTI
+  - ARMANDO BAZZANI
+  - SANDRO RAMBALDI
+  publisher: International Journal of Modern Physics C
+  date: '2013-02-01'
+  link: https://doi.org/g89wkd
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4725180
+  title: Bistability in the chemical master equation for dual phosphorylation cycles
+  authors:
+  - Armando Bazzani
+  - Gastone C. Castellani
+  - Enrico Giampieri
+  - Daniel Remondini
+  - Leon N Cooper
+  publisher: The Journal of Chemical Physics
+  date: '2012-06-18'
+  link: https://doi.org/f36vm7
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjst/e2012-01703-3
+  title: Smart cities of the future
+  authors:
+  - M. Batty
+  - K. W. Axhausen
+  - F. Giannotti
+  - A. Pozdnoukhov
+  - A. Bazzani
+  - M. Wachowicz
+  - G. Ouzounis
+  - Y. Portugali
+  publisher: The European Physical Journal Special Topics
+  date: '2012-11-01'
+  link: https://doi.org/bxnw
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0129183112500611
+  title: TOWARDS A STATISTICAL PHYSICS OF HUMAN MOBILITY
+  authors:
+  - GALLOTTI RICCARDO
+  - BAZZANI ARMANDO
+  - RAMBALDI SANDRO
+  publisher: International Journal of Modern Physics C
+  date: '2012-09-01'
+  link: https://doi.org/gbbstm
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.plrev.2011.01.008
+  title: "Preliminaries for a future mathematical formulation of Evolution TheoryComment\
+    \ on \u201CToward a mathematical theory of living systems focusing on developmental\
+    \ biology and evolution: A review and perspectives\u201D by N. Bellomo and B.\
+    \ Carbonaro"
+  authors:
+  - P. Freguglia
+  - A. Bazzani
+  publisher: Physics of Life Reviews
+  date: '2011-03-01'
+  link: https://doi.org/d7jx8m
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-11-593
+  title: Application of Wavelet Packet Transform to detect genetic polymorphisms by
+    the analysis of inter-Alu PCR patterns
+  authors:
+  - Maurizio Cardelli
+  - Matteo Nicoli
+  - Armando Bazzani
+  - Claudio Franceschi
+  publisher: BMC Bioinformatics
+  date: '2010-12-01'
+  link: https://doi.org/fbtqd3
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.81.051917
+  title: Eigenvalue distributions for a class of covariance matrices with application
+    to Bienenstock-Cooper-Munro neurons under noisy conditions
+  authors:
+  - Armando Bazzani
+  - Gastone C. Castellani
+  - Leon N Cooper
+  publisher: Physical Review E
+  date: '2010-05-17'
+  link: https://doi.org/bt2fmx
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-5468/2010/05/P05001
+  title: Statistical laws in urban mobility from microscopic GPS data in the area
+    of Florence
+  authors:
+  - Armando Bazzani
+  - Bruno Giorgini
+  - Sandro Rambaldi
+  - Riccardo Gallotti
+  - Luca Giovannini
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2010-05-05'
+  link: https://doi.org/dnhq8k
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cnsns.2007.10.003
+  title: Dynamical models of molecular chains and efficient integration algorithms
+  authors:
+  - Armando Bazzani
+  - Carlo Benedetti
+  - Sandro Rambaldi
+  - Luca Rossi
+  - Giorgio Turchetti
+  publisher: Communications in Nonlinear Science and Numerical Simulation
+  date: '2009-02-01'
+  link: https://doi.org/chwngc
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0905988106
+  title: Toward a microscopic model of bidirectional synaptic plasticity
+  authors:
+  - Gastone C. Castellani
+  - Armando Bazzani
+  - Leon N Cooper
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2009-08-18'
+  link: https://doi.org/fvc52w
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/s0219525907001343
+  title: 'COMPLEXCITY: MODELING URBAN MOBILITY'
+  authors:
+  - ARMANDO BAZZANI
+  - SANDRO RAMBALDI
+  - BRUNO GIORGINI
+  - GIORGIO TURCHETTI
+  publisher: Advances in Complex Systems
+  date: '2007-12-01'
+  link: https://doi.org/bpmngx
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/s0219525907001318
+  title: EDITORIAL
+  authors:
+  - BRUNO GIORGINI
+  - ARMANDO BAZZANI
+  - SANDRO RAMBALDI
+  publisher: Advances in Complex Systems
+  date: '2007-12-01'
+  link: https://doi.org/djw96k
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nima.2006.01.044
+  title: An optical Hamiltonian experiment and the beam dynamics
+  authors:
+  - A. Bazzani
+  - P. Freguglia
+  - L. Fronzoni
+  - G. Turchetti
+  publisher: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+    Spectrometers, Detectors and Associated Equipment'
+  date: '2006-06-01'
+  link: https://doi.org/b7ch6b
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/b605744f
+  title: Characterization and modulation of the hierarchical self-assembly of nanostructured
+    DNA tiles into supramolecular polymers
+  authors:
+  - Marco Brucale
+  - Giampaolo Zuccheri
+  - Luca Rossi
+  - Armando Bazzani
+  - Gastone Castellani
+  - Bruno Samor?
+  publisher: Organic &amp; Biomolecular Chemistry
+  date: '2006-01-01'
+  link: https://doi.org/cjsr9b
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0305-4470/39/37/006
+  title: Hamiltonian dynamics with a weak noise and the echo effect for the rotator
+    model
+  authors:
+  - Giorgio Turchetti
+  - Gabriele Bassi
+  - Armando Bazzani
+  - Bruno Giorgini
+  - Helmut Mais
+  publisher: 'Journal of Physics A: Mathematical and General'
+  date: '2006-08-29'
+  link: https://doi.org/fmwwmq
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.1949518
+  title: Adiabatic Halo Formation
+  authors:
+  - A. Bazzani
+  publisher: AIP Conference Proceedings
+  date: '2005-01-01'
+  link: https://doi.org/d8f2ch
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physa.2004.08.083
+  title: Stochastic continuity equation and related processes
+  authors:
+  - Gabriele Bassi
+  - Armando Bazzani
+  - Helmut Mais
+  - Giorgio Turchetti
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2005-03-01'
+  link: https://doi.org/dpdk97
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjc/s2003-01269-2
+  title: 3D solutions of the Poisson-Vlasov equations for a charged plasma and particle-core
+    model in a line of FODO cells
+  authors:
+  - G. Turchetti
+  - S. Rambaldi
+  - A. Bazzani
+  - M. Comunian
+  - A. Pisent
+  publisher: The European Physical Journal C
+  date: '2003-09-01'
+  link: https://doi.org/b3mtzn
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0378-4371(03)00250-4
+  title: A chronotopic model of mobility in urban spaces
+  authors:
+  - Armando Bazzani
+  - Bruno Giorgini
+  - Graziano Servizi
+  - Giorgio Turchetti
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2003-07-01'
+  link: https://doi.org/cp85ms
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0378-4371(03)00073-6
+  title: Diffusion and memory effects for stochastic processes and fractional Langevin
+    equations
+  authors:
+  - Armando Bazzani
+  - Gabriele Bassi
+  - Giorgio Turchetti
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2003-06-01'
+  link: https://doi.org/fs54k3
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/089976603321891837
+  title: The Effect of Noise on a Class of Energy-Based Learning Rules
+  authors:
+  - A. Bazzani
+  - D. Remondini
+  - N. Intrator
+  - G. C. Castellani
+  publisher: Neural Computation
+  date: '2003-07-01'
+  link: https://doi.org/fw99rm
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0031-9155/46/6/305
+  title: An SVM classifier to separate false signals from microcalcifications in digital
+    mammograms
+  authors:
+  - Armando Bazzani
+  - Alessandro Bevilacqua
+  - Dante Bollini
+  - Rosa Brancaccio
+  - Renato Campanini
+  - Nico Lanconelli
+  - Alessandro Riccardi
+  - Davide Romani
+  publisher: Physics in Medicine and Biology
+  date: '2001-05-14'
+  link: https://doi.org/ckd54j
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevSTAB.4.114201
+  title: Analysis of a model for resonant extraction of intense beams by normal forms
+    and frequency map
+  authors:
+  - L. Bongini
+  - A. Bazzani
+  - G. Turchetti
+  - I. Hofmann
+  publisher: Physical Review Special Topics - Accelerators and Beams
+  date: '2001-11-28'
+  link: https://doi.org/cd4hk9
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevSTAB.4.124201
+  title: Frequency map analysis of a three-dimensional particle in the core model
+    of a high intensity linac
+  authors:
+  - M. Comunian
+  - A. Pisent
+  - A. Bazzani
+  - G. Turchetti
+  - S. Rambaldi
+  publisher: Physical Review Special Topics - Accelerators and Beams
+  date: '2001-12-18'
+  link: https://doi.org/fqzw3d
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-9002(01)00140-1
+  title: Frequency map analysis of resonances in a nonlinear lattice with space charge
+  authors:
+  - G. Turchetti
+  - A. Bazzani
+  - F. Bergamini
+  - S. Rambaldi
+  - I. Hofmann
+  - L. Bongini
+  - G. Franchetti
+  publisher: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+    Spectrometers, Detectors and Associated Equipment'
+  date: '2001-05-01'
+  link: https://doi.org/bbcvpk
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0129183100000808
+  title: SYSTEM FOR AUTOMATIC DETECTION OF CLUSTERED MICROCALCIFICATIONS IN DIGITAL
+    MAMMOGRAMS
+  authors:
+  - A. BAZZANI
+  - D. BOLLINI
+  - R. BRANCACCIO
+  - R. CAMPANINI
+  - N. LANCONELLI
+  - D. ROMANI
+  - A. BEVILACQUA
+  publisher: International Journal of Modern Physics C
+  date: '2000-07-01'
+  link: https://doi.org/bhdqrm
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF03035855
+  title: Adiabatic invariance for pendulum-like systems
+  authors:
+  - A. Bazzani
+  publisher: Il Nuovo Cimento A
+  date: '1999-05-01'
+  link: https://doi.org/cr5qxs
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF03035866
+  title: Study of beam halo-formation with the frequency map analysis method
+  authors:
+  - A. Pisent
+  - A. Bazzani
+  - M. Comunian
+  publisher: Il Nuovo Cimento A
+  date: '1999-05-01'
+  link: https://doi.org/dgh3xn
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.57.1178
+  title: Analysis of resonances in action space for symplectic maps
+  authors:
+  - A. Bazzani
+  - L. Bongini
+  - G. Turchetti
+  publisher: Physical Review E
+  date: '1998-01-01'
+  link: https://doi.org/dbvz5n
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0305-4470/31/28/004
+  title: Diffusion in Hamiltonian systems driven by harmonic noise
+  authors:
+  - Armando Bazzani
+  - Luca Beccaceci
+  publisher: 'Journal of Physics A: Mathematical and General'
+  date: '1998-07-17'
+  link: https://doi.org/dnjxqt
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF03036597
+  title: Diffusion of magnetic field lines in a confined RFP plasma
+  authors:
+  - A. Bazzani
+  - A. DI Sebastiano
+  - G. Turchetti
+  publisher: Il Nuovo Cimento D
+  date: '1998-12-01'
+  link: https://doi.org/c62k4q
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0305-4470/30/1/004
+  title: Action diffusion for symplectic maps with a noisy linear frequency
+  authors:
+  - A Bazzani
+  - S Siboni
+  - G Turchetti
+  publisher: 'Journal of Physics A: Mathematical and General'
+  date: '1997-01-07'
+  link: https://doi.org/fw9s2b
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-9002(96)01209-0
+  title: 'PLATO: A program library for the analysis of nonlinear betatronic motion'
+  authors:
+  - M Giovannozzi
+  - E Todesco
+  - A Bazzani
+  - R Bartolini
+  publisher: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+    Spectrometers, Detectors and Associated Equipment'
+  date: '1997-03-01'
+  link: https://doi.org/dk29d9
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02742510
+  title: Stability boundary and diffusion in 2D maps describing a magnetic lattice
+  authors:
+  - A. Bazzani
+  - G. Servizi
+  - G. Turchetti
+  - K. Hizanidis
+  - C. Polymilis
+  publisher: Il Nuovo Cimento B
+  date: '1996-11-01'
+  link: https://doi.org/bkkq79
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0010-4655(94)00140-W
+  title: A program to compute Birkhoff normal forms of symplectic maps in 4
+  authors:
+  - A. Bazzani
+  - M. Giovannozzi
+  - E. Todesco
+  publisher: Computer Physics Communications
+  date: '1995-04-01'
+  link: https://doi.org/d5x4zd
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02188693
+  title: A model of modulated diffusion. I. Analytical results
+  authors:
+  - A. Bazzani
+  - S. Siboni
+  - G. Turchetti
+  - S. Vaienti
+  publisher: Journal of Statistical Physics
+  date: '1994-08-01'
+  link: https://doi.org/b64w92
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02188694
+  title: A model of modulated diffusion. II. Numerical results on statistical properties
+  authors:
+  - A. Bazzani
+  - S. Siboni
+  - G. Turchetti
+  - S. Vaienti
+  publisher: Journal of Statistical Physics
+  date: '1994-08-01'
+  link: https://doi.org/c85pv6
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0167-2789(94)90246-1
+  title: Diffusion in Hamiltonian systems with a small stochastic perturbation
+  authors:
+  - A. Bazzani
+  - S. Siboni
+  - G. Turchetti
+  publisher: 'Physica D: Nonlinear Phenomena'
+  date: '1994-09-01'
+  link: https://doi.org/dr7v43
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF00914358
+  title: Normal form theory for volume preserving maps
+  authors:
+  - A. Bazzani
+  publisher: "ZAMP Zeitschrift f\uFFFDr angewandte Mathematik und Physik"
+  date: '1993-01-01'
+  link: https://doi.org/cs4x23
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0167-2789(93)90249-Z
+  title: Resonant normal forms, interpolating Hamiltonians and stability analysis
+    of area preserving maps
+  authors:
+  - A. Bazzani
+  - M. Giovannozzi
+  - G. Servizi
+  - E. Todesco
+  - G. Turchetti
+  publisher: 'Physica D: Nonlinear Phenomena'
+  date: '1993-04-01'
+  link: https://doi.org/bbvb35
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.46.6754
+  title: Diffusion in models of modulated area-preserving maps
+  authors:
+  - A. Bazzani
+  - S. Siboni
+  - G. Turchetti
+  - S. Vaienti
+  publisher: Physical Review A
+  date: '1992-11-01'
+  link: https://doi.org/b68fqv
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0305-4470/25/8/008
+  title: Singularities of normal forms and topology of orbits in area-preserving maps
+  authors:
+  - A Bazzani
+  - G Turchetti
+  publisher: 'Journal of Physics A: Mathematical and General'
+  date: '1992-04-21'
+  link: https://doi.org/c9h3mr
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02813234
+  title: First integrals and stability estimates for isochronous nonresonant symplectic
+    maps
+  authors:
+  - A. Bazzani
+  - S. Marmi
+  publisher: Il Nuovo Cimento B
+  date: '1991-06-01'
+  link: https://doi.org/btz5hm
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0305-4470/24/2/001
+  title: Variational approach to the integrals of motion for symplectic maps
+  authors:
+  - A Bazzani
+  - E Remiddi
+  - G Turchetti
+  publisher: 'Journal of Physics A: Mathematical and General'
+  date: '1991-01-21'
+  link: https://doi.org/cwhh5s
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0168-9002(90)90603-4
+  title: Normal forms and invariants in the description of a magnetic lattice
+  authors:
+  - Armando Bazzani
+  - Graziano Servizi
+  - Ezio Todesco
+  - Giorgio Turchetti
+  publisher: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+    Spectrometers, Detectors and Associated Equipment'
+  date: '1990-12-01'
+  link: https://doi.org/ddfvvh
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF00051010
+  title: Nekhoroshev estimate for isochronous non resonant symplectic maps
+  authors:
+  - Armando Bazzani
+  - Stefano Marmi
+  - Giorgio Turchetti
+  publisher: Celestial Mechanics and Dynamical Astronomy
+  date: '1990-01-01'
+  link: https://doi.org/dfr5m6
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02753830
+  title: "Poincar\xE9 map and anomalous transport in a magnetically confined plasma"
+  authors:
+  - A. Bazzani
+  - M. Malavasi
+  - S. Siboni
+  - C. Pellacani
+  - S. Rambaldi
+  - G. Turchetti
+  publisher: Il Nuovo Cimento B Series 11
+  date: '1989-06-01'
+  link: https://doi.org/d3dkcn
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02728793
+  title: Normal forms for Hamiltonian maps and nonlinear effects in a particle accelerator
+  authors:
+  - A. Bazzani
+  - P. Mazzanti
+  - G. Servizi
+  - G. Turchetti
+  publisher: Il Nuovo Cimento B Series 11
+  date: '1988-07-01'
+  link: https://doi.org/fpgr84
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF01232951
+  title: Normal forms for symplectic maps of R2n
+  authors:
+  - A. Bazzani
+  publisher: Celestial Mechanics
+  date: '1987-03-01'
+  link: https://doi.org/drpf8f
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21428/93b7ef64.ec022085
+  title: Exploring TV Seriality and Television Studies through Data-Driven Approaches
+  authors:
+  - Mirko Degli Esposti
+  - Guglielmo Pescatore
+  publisher: 'Audiovisual Data: Data-Driven Perspectives for Media Studies. 13th Media
+    Mutations International Conference'
+  date: '2023-07-10'
+  link: https://doi.org/g9dm7x
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.2.033477
+  title: Dynamics of transposable elements generates structure and symmetries in genetic
+    sequences
+  authors:
+  - Giampaolo Cristadoro
+  - Mirko Degli Esposti
+  - Eduardo G. Altmann
+  publisher: Physical Review Research
+  date: '2020-09-23'
+  link: https://doi.org/ghgg2r
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-34136-w
+  title: The common origin of symmetry and structure in genetic sequences
+  authors:
+  - Giampaolo Cristadoro
+  - Mirko Degli Esposti
+  - Eduardo G. Altmann
+  publisher: Scientific Reports
+  date: '2018-10-25'
+  link: https://doi.org/gfk9bj
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/199323
+  title: The common origin of symmetry and structure in genetic sequences
+  authors:
+  - G. Cristadoro
+  - M. Degli Esposti
+  - E.G. Altmann
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-06'
+  link: https://doi.org/gkvnd4
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2015.0227
+  title: Characterization of DNA methylation as a function of biological complexity
+    via dinucleotide inter-distances
+  authors:
+  - Giulia Paci
+  - Giampaolo Cristadoro
+  - Barbara Monti
+  - Marco Lenci
+  - Mirko Degli Esposti
+  - Gastone C. Castellani
+  - Daniel Remondini
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2016-03-13'
+  link: https://doi.org/gknf3p
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
