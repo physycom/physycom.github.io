@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@physycom.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  # email: contact@physycom.com
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
   github: physycom
-  twitter: physycom
-  youtube: physycom
+  # twitter: physycom
+  youtube: laboratoriodifisicadeisist17
 
 ### jekyll settings
 
