@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ <br/>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft10{font-size:194px;font-family:Times;color:#ffffff;}
+	.ft11{font-size:68px;font-family:Times;color:#ffffff;}
+	.ft12{font-size:44px;font-family:Times;color:#ffffff;}
+	.ft13{font-size:68px;font-family:Times;color:#ffffff;}
+	.ft14{font-size:64px;font-family:Times;color:#000000;}
+	.ft15{font-size:65px;font-family:Times;color:#000000;}
+	.ft16{font-size:43px;font-family:Times;color:#000000;}
+	.ft17{font-size:79px;font-family:Times;color:#000000;}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<div id="page1-div" style="position:relative;width:3574px;height:5055px;">
+<img width="3574" height="5055" src="target001.png" alt="background image"/>
+<p style="position:absolute;top:2px;left:303px;white-space:nowrap" class="ft10"><b>Urban&#160;Building Energy Modelling</b></p>
+<p style="position:absolute;top:357px;left:927px;white-space:nowrap" class="ft11"><b>Aldo&#160;Canfora</b></p>
+<p style="position:absolute;top:358px;left:1343px;white-space:nowrap" class="ft12"><b>1</b></p>
+<p style="position:absolute;top:357px;left:1368px;white-space:nowrap" class="ft11"><b>,&#160;Armando&#160;Bazzani</b></p>
+<p style="position:absolute;top:358px;left:1958px;white-space:nowrap" class="ft12"><b>1</b></p>
+<p style="position:absolute;top:357px;left:1983px;white-space:nowrap" class="ft11"><b>,&#160;Mirko&#160;Degli&#160;Esposti</b></p>
+<p style="position:absolute;top:358px;left:2630px;white-space:nowrap" class="ft12"><b>1</b></p>
+<p style="position:absolute;top:433px;left:289px;white-space:nowrap" class="ft13">1.&#160;Department&#160;of&#160;Physics&#160;and&#160;Astronomy,&#160;University&#160;of&#160;Bologna,&#160;Via&#160;Irnerio&#160;46,&#160;40126&#160;Bologna,&#160;Italy;&#160;</p>
+<p style="position:absolute;top:619px;left:1598px;white-space:nowrap" class="ft14">Introduction</p>
+<p style="position:absolute;top:740px;left:292px;white-space:nowrap" class="ft15">For&#160;the&#160;European&#160;Commission,&#160;the&#160;</p>
+<p style="position:absolute;top:740px;left:1354px;white-space:nowrap" class="ft14">Urban&#160;Digital&#160;Twin&#160;</p>
+<p style="position:absolute;top:740px;left:1984px;white-space:nowrap" class="ft15">is&#160;crucial&#160;to&#160;address&#160;challenges&#160;such&#160;as&#160;</p>
+<p style="position:absolute;top:813px;left:292px;white-space:nowrap" class="ft15">decarbonization&#160;and&#160;achieving&#160;the&#160;</p>
+<p style="position:absolute;top:814px;left:1325px;white-space:nowrap" class="ft14">Green&#160;Deal&#160;</p>
+<p style="position:absolute;top:813px;left:1693px;white-space:nowrap" class="ft15">goals&#160;and&#160;to&#160;develop&#160;Smart&#160;Cities.&#160;</p>
+<p style="position:absolute;top:814px;left:2735px;white-space:nowrap" class="ft14">Infrastructures&#160;</p>
+<p style="position:absolute;top:886px;left:292px;white-space:nowrap" class="ft14">energy&#160;management</p>
+<p style="position:absolute;top:885px;left:926px;white-space:nowrap" class="ft15">makes&#160;it&#160;possible&#160;to&#160;reduce&#160;consumption,&#160;integrate&#160;renewable&#160;energy&#160;and&#160;plan&#160;</p>
+<p style="position:absolute;top:959px;left:292px;white-space:nowrap" class="ft15">sustainable&#160;cities.&#160;This&#160;technology&#160;is&#160;a&#160;strategic&#160;lever&#160;for&#160;creating&#160;greener,&#160;more&#160;resilient&#160;cities&#160;</p>
+<p style="position:absolute;top:1032px;left:292px;white-space:nowrap" class="ft15">aligned&#160;with&#160;European&#160;sustainability&#160;goals.</p>
+<p style="position:absolute;top:2153px;left:270px;white-space:nowrap" class="ft16">Fig&#160;1.&#160;Above:&#160;3D&#160;representation&#160;of&#160;Bologna,&#160;from&#160;Comune&#160;di&#160;</p>
+<p style="position:absolute;top:2207px;left:270px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;Bologna.&#160;Open&#160;Data&#160;Bologna&#160;has&#160;a&#160;dataset&#160;with&#160;a&#160;series&#160;</p>
+<p style="position:absolute;top:2261px;left:324px;white-space:nowrap" class="ft16">&#160;&#160;&#160;of&#160;information&#160;about&#160;buildings&#160;such&#160;as&#160;height,&#160;volumes,&#160;</p>
+<p style="position:absolute;top:2315px;left:270px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;plan&#160;area,&#160;geo-shape.&#160;Below:&#160;A&#160;tile&#160;of&#160;the&#160;Bologna&#160;2023&#160;</p>
+<p style="position:absolute;top:2369px;left:270px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;LiDAR&#160;campaign.&#160;In&#160;addition&#160;to&#160;Open&#160;Data,&#160;there&#160;are&#160;</p>
+<p style="position:absolute;top:2423px;left:270px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;LiDAR&#160;data&#160;from&#160;which&#160;it&#160;is&#160;possible&#160;to&#160;extract&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:2477px;left:270px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;information,&#160;using&#160;QGIS&#160;software,&#160;to&#160;make&#160;comparisons&#160;</p>
+<p style="position:absolute;top:2531px;left:324px;white-space:nowrap" class="ft16">&#160;&#160;&#160;and&#160;supplement&#160;missing&#160;Open&#160;Data&#160;Bologna.</p>
+<p style="position:absolute;top:3812px;left:397px;white-space:nowrap" class="ft16">Fig&#160;3.&#160;Tridimensional&#160;representation&#160;of&#160;a&#160;building&#160;in&#160;Bologna,&#160;</p>
+<p style="position:absolute;top:3866px;left:397px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;&#160;from&#160;Energy&#160;Plus&#160;(EP).&#160;This&#160;kind&#160;of&#160;representation&#160;is&#160;</p>
+<p style="position:absolute;top:3920px;left:397px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;&#160;made&#160;with&#160;the&#160;creations&#160;of&#160;idf&#160;file&#160;(the&#160;input&#160;file&#160;for&#160;EP),&#160;</p>
+<p style="position:absolute;top:3974px;left:451px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;a&#160;file&#160;with&#160;all&#160;information&#160;about&#160;the&#160;building&#160;such&#160;as&#160;</p>
+<p style="position:absolute;top:4028px;left:397px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;&#160;height,&#160;volumes,&#160;plan&#160;area,&#160;materials.</p>
+<p style="position:absolute;top:2153px;left:1859px;white-space:nowrap" class="ft16">Fig&#160;2.&#160;Empirical&#160;simulation&#160;of&#160;a&#160;fictitious&#160;urban&#160;heat&#160;island&#160;</p>
+<p style="position:absolute;top:2207px;left:1859px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;(UHI).&#160;Left:&#160;Each&#160;cell&#160;can&#160;affect&#160;its&#160;8&#160;neighbors;&#160;the&#160;light&#160;</p>
+<p style="position:absolute;top:2261px;left:1913px;white-space:nowrap" class="ft16">&#160;&#160;&#160;green&#160;cells&#160;are&#160;energy&#160;class&#160;A-B&#160;buildings,&#160;the&#160;orange&#160;cells&#160;</p>
+<p style="position:absolute;top:2315px;left:1913px;white-space:nowrap" class="ft16">&#160;&#160;&#160;for&#160;class&#160;C-D-E,&#160;the&#160;red&#160;class&#160;for&#160;class&#160;G-F,&#160;the&#160;green&#160;cells&#160;</p>
+<p style="position:absolute;top:2369px;left:1913px;white-space:nowrap" class="ft16">&#160;&#160;&#160;for&#160;vegetation,&#160;the&#160;dark&#160;grey&#160;cells&#160;for&#160;street.&#160;Right:&#160;Heat&#160;</p>
+<p style="position:absolute;top:2423px;left:1913px;white-space:nowrap" class="ft16">&#160;&#160;&#160;map&#160;generated&#160;by&#160;the&#160;simulation&#160;when&#160;the&#160;outside&#160;&#160;&#160;</p>
+<p style="position:absolute;top:2477px;left:1859px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;temperature&#160;is&#160;32°&#160;C.</p>
+<p style="position:absolute;top:1131px;left:815px;white-space:nowrap" class="ft17"><b>Data</b></p>
+<p style="position:absolute;top:1124px;left:2459px;white-space:nowrap" class="ft17"><b>Methods</b></p>
+<p style="position:absolute;top:4077px;left:1618px;white-space:nowrap" class="ft14">Conclusion</p>
+<p style="position:absolute;top:4205px;left:240px;white-space:nowrap" class="ft15">The&#160;workflow&#160;starts&#160;from&#160;collecting&#160;all&#160;geometrical&#160;parameters&#160;(such&#160;as&#160;plan&#160;area,&#160;volume,&#160;height)&#160;that&#160;</p>
+<p style="position:absolute;top:4286px;left:240px;white-space:nowrap" class="ft15">EP&#160;needs&#160;for&#160;the&#160;energy&#160;consumption&#160;simulation.&#160;In&#160;order&#160;for&#160;the&#160;simulation&#160;to&#160;be&#160;plausible,&#160;it&#160;is&#160;</p>
+<p style="position:absolute;top:4367px;left:240px;white-space:nowrap" class="ft15">important&#160;to&#160;have&#160;some&#160;non-geometrical&#160;data&#160;on&#160;the&#160;building&#160;(e.g.&#160;materials&#160;and&#160;wall&#160;thickness).&#160;Due&#160;</p>
+<p style="position:absolute;top:4448px;left:240px;white-space:nowrap" class="ft15">to&#160;privacy&#160;issues,&#160;such&#160;data&#160;sets&#160;are&#160;not&#160;available,&#160;but&#160;it&#160;is&#160;possible&#160;to&#160;cluster&#160;(using&#160;DBSCAN)&#160;</p>
+<p style="position:absolute;top:4529px;left:240px;white-space:nowrap" class="ft15">buildings&#160;into&#160;various&#160;types&#160;of&#160;archetypes&#160;(such&#160;as&#160;year&#160;of&#160;construction)&#160;and&#160;use&#160;normative&#160;or&#160;</p>
+<p style="position:absolute;top:4610px;left:240px;white-space:nowrap" class="ft15">TABULA-related&#160;data&#160;to&#160;fill&#160;in&#160;the&#160;gaps:&#160;some&#160;data&#160;obtained&#160;from&#160;legal&#160;regulations&#160;are&#160;windows-to-</p>
+<p style="position:absolute;top:4691px;left:240px;white-space:nowrap" class="ft15">surface&#160;ratio&#160;and&#160;energy&#160;efficiencies.&#160;Each&#160;cluster&#160;can&#160;have&#160;one&#160;building,&#160;representative&#160;for&#160;the&#160;entire&#160;</p>
+<p style="position:absolute;top:4772px;left:240px;white-space:nowrap" class="ft15">cluster,&#160;of&#160;which&#160;some&#160;data&#160;are&#160;already&#160;known&#160;and&#160;use&#160;these&#160;for&#160;the&#160;other&#160;buildings&#160;in&#160;the&#160;cluster.&#160;A&#160;</p>
+<p style="position:absolute;top:4853px;left:240px;white-space:nowrap" class="ft15">further&#160;step&#160;could&#160;be&#160;an&#160;analysis&#160;of&#160;UHI&#160;with&#160;satellite&#160;thermal&#160;data&#160;to&#160;assess&#160;the&#160;impact&#160;of&#160;buildings&#160;in&#160;</p>
+<p style="position:absolute;top:4934px;left:240px;white-space:nowrap" class="ft15">urban&#160;settings.&#160;The&#160;finale&#160;objective&#160;is&#160;to&#160;have,&#160;for&#160;each&#160;building,&#160;the&#160;energy&#160;estimation&#160;in&#160;KWh/m</p>
+<p style="position:absolute;top:4933px;left:3165px;white-space:nowrap" class="ft16">2</p>
+<p style="position:absolute;top:4934px;left:3188px;white-space:nowrap" class="ft15">.&#160;</p>
+<p style="position:absolute;top:3812px;left:1991px;white-space:nowrap" class="ft16">Fig&#160;4.&#160;Buildings&#160;shapefile,&#160;each&#160;color&#160;represents&#160;a&#160;different&#160;&#160;&#160;</p>
+<p style="position:absolute;top:3866px;left:1991px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;&#160;period&#160;when&#160;the&#160;last&#160;infrastructure&#160;change&#160;occurred.&#160;The&#160;</p>
+<p style="position:absolute;top:3920px;left:2045px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;idea&#160;is&#160;to&#160;clusterize,&#160;using&#160;DBSCAN,&#160;these&#160;buildings&#160;to&#160;</p>
+<p style="position:absolute;top:3974px;left:1991px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;&#160;&#160;have&#160;clusters&#160;with&#160;similar&#160;features&#160;such&#160;as&#160;materials,&#160;wall&#160;</p>
+<p style="position:absolute;top:4028px;left:2045px;white-space:nowrap" class="ft16">&#160;&#160;&#160;&#160;thickness.</p>
+</div>
+</body>
+</html>

@@ -1,22 +1,64 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: VERA
+  subtitle: (FESR 2021-27)
+  group: highlighted
+  image: images/vera.png
+  link: https://digitale.regione.emilia-romagna.it/progetti/gemella-digitale
+  description: VERA (Virtualizing Emilia Romagna Air Quality) is the digital twin project of the Emilia Romagna Region, designed as a simulation and forecasting tool for assessing environmental responses to regional policies. It integrates various models—meteorological, climatic, air quality, mobility—and diverse datasets to support decision-making processes aimed at improving air quality, advancing decarbonization, and mitigating climate change.
+  tags:
+    - resource
+
+- title: BOLOGNA DIGITAL TWIN
+  subtitle: (PON Metro, PNRR)
+  group: highlighted
+  image: images/bolo.png
+  link: https://www.fondazioneinnovazioneurbana.it/en/project/bolognadigitaltwin
+  description: Bologna’s DT is a dynamic digital model of the urban environment and its functioning, powered by data and information shared by stakeholders and citizens and collected in real-time. Bologna’s DT will provide a new civic infrastructure to improve quality of life and address major challenges of our time, such as climate change and new economic and social trends. 
+  tags:
+    - resource
+
+
+- title: S.LI.DES.
+  subtitle: (IT-HR 2021-2027)
+  group: highlighted
+  image: images/slides.png
+  link: https://programming14-20.italy-croatia.eu/web/slides
+  description: (Smart strategies for sustainable tourism in LIvely cultural DEStinations) the project aims at fostering cross border cooperation among cultural destinations in the Programme area and the joint planning of smart strategies to support more sustainable and balanced territorial development through the promotion of tangible and intangible cultural heritage, in particular those assets shaping the identity of the destinations.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+- title: VENICE SMART CONTROL ROOM
+  subtitle: (MindIcity)
+  group: highlighted
+  image: images/mindicity.png
+  link: https://www.fabbricadigitale.com/smart-control-room-venezia-mindicity/
+  description: The Venice Smart Control Room is an innovative project that provides comprehensive monitoring of the city by collecting data from various systems and sensors. Powered by MindIcity, a platform leveraging AI, Big Data Analytics, IoT, and Cloud Computing, it enables real-time and historical data analysis for predictive modeling and simulations. This facilitates informed decision-making in areas such as safety and mobility, offering administrators and operators immediate insights into critical urban dynamics.
   repo: greenelab/lab-website-template
   tags:
     - resource
+
+
+- title: VEO
+  subtitle: (H2020)
+  group: featured
+  image: images/veo.png
+  link: https://www.veo-europe.eu/
+  description: (Versatile Emerging infectious disease Observatory) the project aims to build a Versatile Emerging infectious disease Observatory (VEO) for the generation and distribution of high-quality actionable information for evidence-based early warning, risk assessment and monitoring of Emerging Infectious Diseases and Antimicrobial resistance. This is an iterative process between data science and technology experts, disease experts, social scientists, and citizen scientists.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: OPERANDUM
+  subtitle: (H2020)
+  group: featured
+  image: images/operandum.png
+  link: https://www.operandum-project.eu/
+  description: OPEn-air laboRAtories for Nature baseD solUtions to Manage hydro-meteo risks. The objective of OPERANDUM is to reduce hydro-meteorological risks in European territories through co-designed, co-developed, deployed, tested and demonstrated innovative green and blue/grey/hybrid NBS, and push business exploitation. It aims provision of science-evidence for the usability of NBS, best practices for their design based on participatory processes.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -28,20 +70,3 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

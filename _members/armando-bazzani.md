@@ -1,0 +1,13 @@
+---
+name: Armando Bazzani
+image:
+role: associate-professor
+affiliation: University of Bologna - INFN Bologna
+aliases:
+  - A. Bazzani
+  - A Bazzani
+links:
+  home-page: https://www.unibo.it/sitoweb/armando.bazzani/en
+  email: armando.bazzani@unibo.it
+  orcid: 0000-0002-9633-0017
+---

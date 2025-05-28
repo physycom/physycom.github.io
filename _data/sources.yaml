@@ -1,23 +1,10 @@
-- id: doi:10.1371/journal.pcbi.1007128
+
+- id: doi:10.1088/1742-5468/ac4c40
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: In this paper, we cope with the problem of the existence of universal features for pedestrian, bike and vehicular urban mobility. In particular, we propose the use of travel time as the universal energy for the mobility and we define a simple survival model that explains the travel time distribution of the different mobility types.
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - urban mobility
+    - statistics
+    - multimodal
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp

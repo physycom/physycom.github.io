@@ -1,0 +1,13 @@
+---
+name: Aldo Canfora
+image: https://github.com/AldoCanfora.png
+role: phd
+affiliation: University of Bologna - CINECA
+links:
+  home-page: https://www.unibo.it/sitoweb/aldo.canfora2/en
+  github: AldoCanfora
+  email: aldo.canfora2@unibo.it
+---
+
+PhD student in Applied Physics and Complex Systems. 
+I am working on the Digital Twin of Bologna, focusing on Urban Building Energy Modeling (UBEM) and Urban Heat Island (UHI) analysis. My work involves developing energy simulation models to assess urban-scale energy consumption. I specialize in geometric data analysis, leveraging GIS, computational modeling, and machine learning to optimize energy efficiency and environmental impact at the city level.
