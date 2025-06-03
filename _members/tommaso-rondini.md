@@ -1,6 +1,6 @@
 ---
 name: Tommaso Rondini
-image:
+image: images/tommaso_rondini.png
 role: phd
 affiliation: University of Bologna - INFN Bologna
 links:

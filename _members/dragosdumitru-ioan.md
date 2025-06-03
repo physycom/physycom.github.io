@@ -1,6 +1,6 @@
 ---
 name: Dragos Dumitru Ioan
-image:
+image: images/dragos_ioan.png
 role: researcher
 affiliation: University of Bologna - INFN Bologna
 links:

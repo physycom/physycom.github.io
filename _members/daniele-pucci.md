@@ -1,6 +1,6 @@
 ---
 name: Daniele Pucci
-image:
+image: https://github.com/puccj.png
 role: phd
 affiliation: University of Bologna
 links:
