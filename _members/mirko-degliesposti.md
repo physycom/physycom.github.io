@@ -1,6 +1,6 @@
 ---
 name: Mirko degli Esposti
-image: https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=228804&IdFoto=fee42863
+image: images/mirko_degkliesposti.png
 role: full-professor
 affiliation: University of Bologna
 links:
