@@ -10,4 +10,4 @@ links:
 ---
 
 PhD student in Applied Physics and Complex Systems. 
-I am working on the Digital Twin of Bologna, focusing on Urban Building Energy Modeling (UBEM), Urban Heat Island (UHI) analysis and Urban Vegetation Segmentation. I specialize in geometric data analysis, leveraging GIS, computational modeling, and machine learning to optimize energy efficiency and environmental impact at the city level.
+I am working on the Digital Twin of Bologna, focusing on Urban Building Energy Modeling (UBEM) and Urban Heat Island (UHI) analysis. My work involves developing energy simulation models to assess urban-scale energy consumption. I specialize in geometric data analysis, leveraging GIS, computational modeling, and machine learning to optimize energy efficiency and environmental impact at the city level.

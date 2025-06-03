@@ -9,4 +9,4 @@ links:
   email: giulio.colombini2@unibo.it
 ---
 
-PhD, now research fellow
+Research Fellow
