@@ -22,10 +22,6 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-research-fellow:
-  icon: fa-solid fa-user-graduate
-  description: Research Fellow
-
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
