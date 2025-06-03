@@ -1,7 +1,7 @@
 ---
 name: Giulio Colombini
 image: https://github.com/GColom.png
-role: research fellow
+role: research-fellow
 affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/giulio.colombini2/en

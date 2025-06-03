@@ -1,7 +1,7 @@
 ---
 name: Matteo Falcioni
 image: images/matteo_falcioni.png
-role: research fellow
+role: research-fellow
 affiliation: University of Bologna
 links:
   github: MatteoFalcioni
