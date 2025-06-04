@@ -24,13 +24,18 @@ Contact us
 
 {% include section.html %}
 
-{% capture col1 %}
+{% include figure.html 
+   image="images/via_irnerio_46.png" 
+   caption="University of Bologna - Physics and Astronomy Department" 
+%}
 
-{% include figure.html image="images/via_irnerio_46.png" caption="University of Bologna - Physics and Astronomy Department" %}
-
-{% include button.html type="address" tooltip="Google Maps link to our lab space (2° floor - Lab. 162) at Physics and Astronomy Department" link="https://maps.app.goo.gl/pCXJgtGRGANLS8oz7" %}
-
-{% endcapture %}
+{%
+  include button.html 
+  type="address"
+  text="Physics Department – 2° floor, Lab. 162"
+  tooltip="Google Maps link to our lab space"
+  link="https://maps.app.goo.gl/pCXJgtGRGANLS8oz7"
+%}
 
 
 
