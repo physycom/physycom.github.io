@@ -1,7 +1,7 @@
 ---
 ---
 
-# physycom's Website
+# City Science Laboratory's Website
 
 The City Science Laboratory is a multidisciplinary research group within the Department of Physics and Astronomy at the University of Bologna.
 The Laboratory leverages expertise in physics, mathematics, and computer science to explore and understand the complexity of urban systems.

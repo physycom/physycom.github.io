@@ -21,15 +21,23 @@ Contact us
   text="mirko.degliesposti@unibo.it"
   link="mirko.degliesposti@unibo.it"
 %}
+
+{% include section.html %}
+
+{% include figure.html 
+   image="images/via_irnerio_46.png" 
+   caption="University of Bologna - Physics and Astronomy Department" 
+%}
+
 {%
-  include button.html
+  include button.html 
   type="address"
-  text="Via Irnerio, 46, 40126 Bologna BO, Italy"
-  tooltip="Our location on Google Maps for easy navigation"
+  text="Physics Department – 2° floor, Lab. 162"
+  tooltip="Google Maps link to our lab space"
   link="https://maps.app.goo.gl/pCXJgtGRGANLS8oz7"
 %}
 
-{% include section.html %}
+
 
 
 
