@@ -1,3 +1,10 @@
+---
+title: Research
+nav:
+  order: 2
+  tooltip: research topics
+---
+
 # Research Activities at the City Science Lab
 
 - Network theory and random walks
