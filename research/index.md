@@ -4,6 +4,7 @@ nav:
   order: 2
   tooltip: research topics
 ---
+<h1 style="font-size: 3em;">Mobility</h1>
 
 # Research Activities at the City Science Lab
 
@@ -16,6 +17,8 @@ We develop large-scale simulations of traffic flow across Bologna’s street net
 - Railway delay prediction using Italian train data<br>
 We analyze national train schedules and historical delay records to build predictive models of late arrivals. Machine learning techniques and network-based metrics are used to identify systemic issues and improve schedule reliability.
 
+<h1 style="font-size: 3em;">Urban energy and vegetation</h1>
+
 - Building energy simulation<br>
 We simulate energy consumption for the buildings in Bologna based on their geometry and age. The output is used to map the city’s most energy-demanding and polluting zones, supporting decarbonization strategies and policy-making.
 
@@ -24,3 +27,6 @@ We extract information on urban trees using airborne LiDAR, including segmentati
 
 - Urban Heat Island (UHI) analysis<br>
 We study the urban heat island effect using spatial variables like Sky View Factor (SVF). The aim is to understand microclimate variation across urban zones and identify heat-vulnerable areas for climate adaptation planning.
+
+<h1 style="font-size: 3em;">GIULIO, PUCCI, DRAGOS AGGIUNGETE LA VOSTRA SEZIONE !!!</h1>
+[nota importante](https://www.youtube.com/watch?v=SXHMnicI6Pg)
