@@ -4,9 +4,9 @@ nav:
   order: 2
   tooltip: research topics
 ---
-<h1 style="font-size: 3em;">Mobility</h1>
+<h1 style="font-size: 3em;">Research Activities at the City Science Lab</h1>
 
-# Research Activities at the City Science Lab
+<h1 style="font-size: 1.5em;">Mobility</h1>
 
 - Network theory and random walks<br>
 We study the dynamics of complex networks using random walk models to explore node connectivity, community structure, and diffusion processes. Applications include urban infrastructure, mobility systems, and energy distribution.
@@ -17,7 +17,7 @@ We develop large-scale simulations of traffic flow across various cities, e.g. B
 - Railway delay prediction using Italian train data<br>
 We analyze national train schedules and historical delay records to build a simple model able to replicate the empirical distribution of delays. This model can be used to predict future delays and improve the reliability of the railway system.
 
-<h1 style="font-size: 3em;">Urban energy and vegetation</h1>
+<h1 style="font-size: 1.5em;">Urban energy and vegetation</h1>
 
 - Building energy simulation<br>
 We simulate energy consumption for the buildings in Bologna based on their geometry and age. The output is used to map the city’s most energy-demanding and polluting zones, supporting decarbonization strategies and policymaking.
@@ -28,5 +28,5 @@ We extract information on urban trees using airborne LiDAR, including segmentati
 - Urban Heat Island (UHI) analysis<br>
 We study the urban heat island effect using spatial variables like Sky View Factor (SVF). The aim is to understand microclimate variation across urban zones and identify heat-vulnerable areas for climate adaptation planning.
 
-<h1 style="font-size: 3em;">GIULIO, PUCCI, DRAGOS AGGIUNGETE LA VOSTRA SEZIONE !!!</h1>
+<h1 style="font-size: 1.5em;">GIULIO, PUCCI, DRAGOS AGGIUNGETE LA VOSTRA SEZIONE !!!</h1>
 [nota importante](https://www.youtube.com/watch?v=SXHMnicI6Pg)
