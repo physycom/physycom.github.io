@@ -1,7 +1,9 @@
 ---
 name: Armando Bazzani
 image: images/armando_bazzani.png
-role: associate-professor
+role: pi
+position: Associate Professor
+order: 1
 affiliation: University of Bologna - INFN Bologna
 aliases:
   - A. Bazzani

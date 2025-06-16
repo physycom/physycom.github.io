@@ -1,7 +1,9 @@
 ---
 name: Mirko degli Esposti
 image: images/mirko_degkliesposti.png
-role: full-professor
+role: pi
+position: Full Professor
+order: 2
 affiliation: University of Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/mirko.degliesposti/en
