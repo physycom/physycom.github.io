@@ -11,6 +11,17 @@ The City Science Laboratory brings together a multidisciplinary team of research
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" sort="order" %}
+{% for member in site.members | sort: "order" %}
+  {% include portrait.html 
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    order=member.order
+    description=member.description
+    slug=member.slug
+  %}
+{% endfor %}
 
 
