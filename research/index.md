@@ -1,16 +1,16 @@
 ---
-title: Research Areas
+title: Research
 nav:
   order: 1
   tooltip: research topics
 ---
-<h1 style="font-size: 3em;">Research Areas</h1>
+<h1 style="font-size: 6em;">Research Areas</h1>
 
-<h1 style="font-size: 1.5em;">Mathematical Foundations of Urban Complexity</h1>
+<h1 style="font-size: 3em;">Mathematical Foundations of Urban Complexity</h1>
 
 We explore cities as complex systems, integrating theoretical and computational perspectives from mathematical physics. Our work investigates the multiscale spatial-temporal dynamics of urban processes, the physical underpinnings of digital twins, and the structural principles of urban phenomena. Using tools from multilayer network theory, dynamical systems, statistical mechanics, and both data-driven and analytical modeling, we aim to build a rigorous foundation for understanding and simulating urban complexity.
 
-<h1 style="font-size: 1.5em;">Mobility and Network Dynamics</h1>
+<h1 style="font-size: 3em;">Mobility and Network Dynamics</h1>
 
 # Network Theory and Random Walks<br>
 We investigate the dynamics of complex networks through random walk models to analyze node centrality, community structure, and diffusion processes. Applications include modeling of urban infrastructure, mobility systems, and energy networks.
@@ -21,7 +21,7 @@ We develop large-scale simulations of vehicular traffic in cities such as Bologn
 # Railway Delay Prediction from Italian Train Data<br>
 Using national railway data, we construct models to reproduce and predict train delay distributions. The aim is to understand systemic inefficiencies and provide data-driven insights for enhancing network reliability and punctuality.
 
-<h1 style="font-size: 1.5em;">Urban Energy and Vegetation</h1>
+<h1 style="font-size: 3em;">Urban Energy and Vegetation</h1>
 
 # Building Energy Simulation<br>
 We simulate the energy performance of buildings based on their morphology, construction period, and usage. This enables the identification of energy- intensive areas and supports urban decarbonization strategies through informed policy recommendations.
@@ -32,7 +32,7 @@ Using airborne LiDAR, orthophotos, satellite imagery, and remote sensing, we det
 # Urban Heat Island (UHI) Analysis<br>
 We study the UHI effect by integrating spatial indicators such as Sky View Factor (SVF), land cover, and built morphology. The goal is to assess microclimate variability and identify zones most vulnerable to heat, enabling targeted climate adaptation measures.
 
-<h1 style="font-size: 1.5em;">AI and Urban Modeling</h1>
+<h1 style="font-size: 3em;">AI and Urban Modeling</h1>
 
 # Urban Language Models and Vision-Aware Agents<br>
 We explore how large language models (LLMs) can be trained or fine-tuned to understand spatio-temporal urban processes and respond to complex urban queries. Our research investigates generalization capabilities of LLMs, their integration with vision transformers, and their role as autonomous agents navigating urban data.
