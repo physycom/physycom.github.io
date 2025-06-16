@@ -1,8 +1,7 @@
 ---
 name: Filippo Dalla
 image: images/filippo_dalla.png
-role: member
-position: PhD Student
+role: phd
 order: 2
 affiliation: University of Bologna - INFN Bologna
 links:

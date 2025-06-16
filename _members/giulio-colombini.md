@@ -1,8 +1,7 @@
 ---
 name: Giulio Colombini
 image: https://github.com/GColom.png
-role: member
-position: Postdoctoral Researcher
+role: postdoc
 order: 1
 affiliation: University of Bologna - INFN Bologna
 links:

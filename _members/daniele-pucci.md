@@ -1,8 +1,7 @@
 ---
 name: Daniele Pucci
 image: https://github.com/puccj.png
-role: member
-position: PhD Student
+role: phd
 order: 7
 affiliation: University of Bologna
 links:

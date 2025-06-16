@@ -1,8 +1,7 @@
 ---
 name: Gregorio Berselli
 image: https://github.com/Grufoony.png
-role: member
-position: PhD Student
+role: phd
 order: 5
 affiliation: University of Bologna - INFN Bologna
 links:

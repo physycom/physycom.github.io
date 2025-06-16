@@ -1,8 +1,7 @@
 ---
 name: Dragos Dumitru Ioan
 image: images/dragos_ioan.png
-role: member
-position: Research Fellow
+role: researcher
 order: 8
 affiliation: University of Bologna - INFN Bologna
 links:
