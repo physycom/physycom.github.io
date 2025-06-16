@@ -1,8 +1,7 @@
 ---
 name: Lorenzo di Meco
 image: https://github.com/lorenzodimeco3.png
-role: member
-position: PhD Student
+role: phd
 order: 3
 affiliation: University of Bologna - INFN Bologna
 links:

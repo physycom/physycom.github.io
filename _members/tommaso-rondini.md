@@ -1,8 +1,7 @@
 ---
 name: Tommaso Rondini
 image: images/tommaso_rondini.png
-role: memebr
-position: PhD Student
+role: phd
 order: 6
 affiliation: University of Bologna - INFN Bologna
 links:
