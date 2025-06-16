@@ -1,32 +1,41 @@
 ---
-title: Research
+title: Research Areas
 nav:
-  order: 2
+  order: 1
   tooltip: research topics
 ---
-<h1 style="font-size: 3em;">Research Activities at the City Science Lab</h1>
+<h1 style="font-size: 3em;">Research Areas</h1>
 
-<h1 style="font-size: 1.5em;">Mobility</h1>
+<h1 style="font-size: 1.5em;">Mathematical Foundations of Urban Complexity</h1>
 
-- Network theory and random walks<br>
-We study the dynamics of complex networks using random walk models to explore node connectivity, community structure, and diffusion processes. Applications include urban infrastructure, mobility systems, and energy distribution.
+We explore cities as complex systems, integrating theoretical and computational perspectives from mathematical physics. Our work investigates the multiscale spatial-temporal dynamics of urban processes, the physical underpinnings of digital twins, and the structural principles of urban phenomena. Using tools from multilayer network theory, dynamical systems, statistical mechanics, and both data-driven and analytical modeling, we aim to build a rigorous foundation for understanding and simulating urban complexity.
 
-- Urban vehicular mobility modeling<br>
-We develop large-scale simulations of traffic flow across various cities, e.g. Bologna, to forecast congestion patterns and optimize traffic lights and routing strategies. The model integrates real traffic data from heterogeneous sources and adaptive control mechanisms to improve urban mobility efficiency.
+<h1 style="font-size: 1.5em;">Mobility and Network Dynamics</h1>
 
-- Railway delay prediction using Italian train data<br>
-We analyze national train schedules and historical delay records to build a simple model able to replicate the empirical distribution of delays. This model can be used to predict future delays and improve the reliability of the railway system.
+# Network Theory and Random Walks<br>
+We investigate the dynamics of complex networks through random walk models to analyze node centrality, community structure, and diffusion processes. Applications include modeling of urban infrastructure, mobility systems, and energy networks.
 
-<h1 style="font-size: 1.5em;">Urban energy and vegetation</h1>
+# Urban Vehicular Mobility Modeling<br>
+We develop large-scale simulations of vehicular traffic in cities such as Bologna to predict congestion patterns, optimize routing, and improve traffic light coordination. Our models integrate real-time data from multiple sources and use adaptive mechanisms for control and forecasting.
 
-- Building energy simulation<br>
-We simulate energy consumption for the buildings in Bologna based on their geometry and age. The output is used to map the city’s most energy-demanding and polluting zones, supporting decarbonization strategies and policymaking.
+# Railway Delay Prediction from Italian Train Data<br>
+Using national railway data, we construct models to reproduce and predict train delay distributions. The aim is to understand systemic inefficiencies and provide data-driven insights for enhancing network reliability and punctuality.
 
-- Urban vegetation analysis<br>
-We extract information on urban trees using airborne LiDAR, including segmentation of individual trees and updates of tree features such as height and crown radius. This helps maintain accurate vegetation inventories and assess urban green coverage.
+<h1 style="font-size: 1.5em;">Urban Energy and Vegetation</h1>
 
-- Urban Heat Island (UHI) analysis<br>
-We study the urban heat island effect using spatial variables like Sky View Factor (SVF). The aim is to understand microclimate variation across urban zones and identify heat-vulnerable areas for climate adaptation planning.
+# Building Energy Simulation<br>
+We simulate the energy performance of buildings based on their morphology, construction period, and usage. This enables the identification of energy- intensive areas and supports urban decarbonization strategies through informed policy recommendations.
 
-<h1 style="font-size: 1.5em;">GIULIO, PUCCI, DRAGOS AGGIUNGETE LA VOSTRA SEZIONE !!!</h1>
-[nota importante](https://www.youtube.com/watch?v=SXHMnicI6Pg)
+# Urban Vegetation Analysis<br>
+Using airborne LiDAR, orthophotos, satellite imagery, and remote sensing, we detect and classify urban trees, estimate structural attributes like height and crown width, and monitor vegetation changes over time. These analyses support green infrastructure planning and biodiversity management.
+
+# Urban Heat Island (UHI) Analysis<br>
+We study the UHI effect by integrating spatial indicators such as Sky View Factor (SVF), land cover, and built morphology. The goal is to assess microclimate variability and identify zones most vulnerable to heat, enabling targeted climate adaptation measures.
+
+<h1 style="font-size: 1.5em;">AI and Urban Modeling</h1>
+
+# Urban Language Models and Vision-Aware Agents<br>
+We explore how large language models (LLMs) can be trained or fine-tuned to understand spatio-temporal urban processes and respond to complex urban queries. Our research investigates generalization capabilities of LLMs, their integration with vision transformers, and their role as autonomous agents navigating urban data.
+
+# Physics-Informed Neural Networks (PINNs) for Urban Modeling<br>
+To ensure that AI models reflect underlying physical laws, we use physics- informed neural networks that embed dynamical constraints into learning architectures. These models allow for more accurate and interpretable simulations of urban processes, from energy flow to climate dynamics.

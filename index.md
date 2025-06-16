@@ -1,16 +1,12 @@
 ---
 ---
 
-# City Science Laboratory's Website
+# City Science Laboratory
 
-The City Science Laboratory is a multidisciplinary research group within the Department of Physics and Astronomy at the University of Bologna.
-The Laboratory leverages expertise in physics, mathematics, and computer science to explore and understand the complexity of urban systems.
-With a focus on mobility, climate, and energy, the Laboratory aims to contribute to the development of sustainable and resilient cities by advancing scientific methodologies and computational tools.
-The Laboratory collaborates closely with CINECA, one of the largest high-performance computing centers in Europe, on several urban Digital Twin initiatives.
-A notable example is the Digital Twin of the City of Bologna, which integrates diverse datasets and advanced modeling techniques to provide actionable insights for urban planning, climate adaptation, and energy efficiency.
-The Laboratory offers the expertise in the fields, Urban LiDAR and Orthophoto Analysis, Infrastructure Morphology and Indicators, Vegetation and Climate Vulnerability Indices, Building Energy Simulations, Urban Microclimate Simulations, Vehicular Mobility Modeling, Pedestrian Dynamics and Crowd Analysis.
-The City Science Laboratory combines advanced computational methods with real-world applications, fostering collaborations with
-stakeholders to address critical urban challenges and promote evidence-based decision-making.
+The City Science Laboratory is a multidisciplinary research group within the Department of Physics and Astronomy at the University of Bologna. The Laboratory brings together expertise in physics, mathematics, and computer science to investigate the complexity of urban systems. With a focus on mobility, climate, and energy, it aims to advance sustainable and resilient cities through scientific methodologies, computational tools, and the application of artificial intelligence and deep learning algorithms, which are increasingly transforming the analysis and management of urban environments.
+The Laboratory collaborates with CINECA, one of Europe’s leading high- performance computing centers, on several urban Digital Twin initiatives. Among these, the Digital Twin of the City of Bologna integrates heterogeneous datasets and advanced modeling techniques to generate insights for urban planning, climate adaptation, and energy efficiency.
+Key research areas include the analysis of Urban LiDAR, Orthophotos, Satellite Data, and other Remote Sensing sources; the study of Infrastructure Morphology and Indicators; the development of Vegetation and Climate Vulnerability Indices; Building Energy Simulations; Urban Microclimate Modeling; Vehicular Mobility Modeling; and Pedestrian Dynamics and Crowd Analysis.
+By combining advanced computational methods with real-world applications, the City Science Laboratory fosters collaboration with public and private stakeholders to address critical urban challenges and promote evidence-based decision-making.
 
 {% include section.html %}
 

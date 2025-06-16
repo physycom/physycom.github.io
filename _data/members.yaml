@@ -1,0 +1,39 @@
+- name: Armando Bazzani
+  role: pi
+  order: 1
+
+- name: Mirko Degli Esposti
+  role: pi
+  order: 2
+
+- name: Giulio Colombini
+  role: member
+  order: 1
+
+- name: Filippo Dalla
+  role: member
+  order: 2
+
+- name: Lorenzo Di Meco
+  role: member
+  order: 3
+
+- name: Aldo Canfora
+  role: member
+  order: 4
+
+- name: Gregorio Berselli
+  role: member
+  order: 5
+
+- name: Tommaso Rondini
+  role: member
+  order: 6
+
+- name: Daniele Pucci
+  role: member
+  order: 7
+
+- name: Dragos Dumitru Ioan
+  role: member
+  order: 8
