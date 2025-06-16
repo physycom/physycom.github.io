@@ -12,7 +12,6 @@ The City Science Laboratory brings together a multidisciplinary team of research
 {% include section.html %}
 
 {% assign professors = site.members | where_exp: "m", "m.role contains 'professor'" | sort: "order" %}
-{% assign others = site.members | where_exp: "m", "m.role contains 'professor'" | negate | sort: "order" %}
 
 {% for member in professors %}
   {% include portrait.html 
@@ -27,17 +26,20 @@ The City Science Laboratory brings together a multidisciplinary team of research
   %}
 {% endfor %}
 
+{% assign others = site.members | sort: "order" %}
 {% for member in others %}
-  {% include portrait.html 
-    name=member.name
-    image=member.image
-    role=member.role
-    affiliation=member.affiliation
-    links=member.links
-    order=member.order
-    description=member.description
-    slug=member.slug
-  %}
+  {% unless member.role contains 'professor' %}
+    {% include portrait.html 
+      name=member.name
+      image=member.image
+      role=member.role
+      affiliation=member.affiliation
+      links=member.links
+      order=member.order
+      description=member.description
+      slug=member.slug
+    %}
+  {% endunless %}
 {% endfor %}
 
 
