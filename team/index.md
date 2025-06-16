@@ -11,7 +11,23 @@ The City Science Laboratory brings together a multidisciplinary team of research
 
 {% include section.html %}
 
-{% for member in site.members | sort: "order" %}
+{% assign professors = site.members | where_exp: "m", "m.role contains 'professor'" | sort: "order" %}
+{% assign others = site.members | reject: "role", "professor" | sort: "order" %}
+
+{% for member in professors %}
+  {% include portrait.html 
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    order=member.order
+    description=member.description
+    slug=member.slug
+  %}
+{% endfor %}
+
+{% for member in others %}
   {% include portrait.html 
     name=member.name
     image=member.image
