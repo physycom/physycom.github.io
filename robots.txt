@@ -1,1 +1,1 @@
-Sitemap: https://physycom.github.io/website/sitemap.xml
+Sitemap: https://physycom.github.io/sitemap.xml
