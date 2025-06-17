@@ -41,5 +41,5 @@ We study the UHI effect by integrating spatial indicators such as Sky View Facto
 <h3 style="color: black; text-align: left;">Urban Language Models and Vision-Aware Agent</h3>
 We explore how large language models (LLMs) can be trained or fine-tuned to understand spatio-temporal urban processes and respond to complex urban queries. Our research investigates generalization capabilities of LLMs, their integration with vision transformers, and their role as autonomous agents navigating urban data.
 
-<h3 style="color: black; text-align: left;">hysics-Informed Neural Networks (PINNs) for Urban Modeling</h3>
+<h3 style="color: black; text-align: left;">Physics-Informed Neural Networks (PINNs) for Urban Modeling</h3>
 To ensure that AI models reflect underlying physical laws, we use physics- informed neural networks that embed dynamical constraints into learning architectures. These models allow for more accurate and interpretable simulations of urban processes, from energy flow to climate dynamics.
