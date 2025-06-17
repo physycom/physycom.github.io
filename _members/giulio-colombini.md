@@ -9,5 +9,3 @@ links:
   github: GColom
   email: giulio.colombini2@unibo.it
 ---
-
-Research Fellow

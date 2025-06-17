@@ -9,4 +9,3 @@ links:
   email: dragosdumitru.ioan@unibo.it
 ---
 
-Research Fellow

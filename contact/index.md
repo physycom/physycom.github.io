@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+<p style="font-family: 'Georgia', serif; font-size: 18px;">
 Contact us 
+</p>
 
 {%
   include button.html

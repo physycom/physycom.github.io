@@ -10,4 +10,6 @@ links:
   email: filippo.dalla3@unibo.it
 ---
 
+<p style="font-family: 'Georgia', serif; font-size: 18px;">
 PhD student in Applied Physics and Complex Systems
+</p>

@@ -10,4 +10,3 @@ links:
   email: daniele.pucci4@unibo.it
 ---
 
-PhD student

@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+<p style="font-family: 'Georgia', serif; font-size: 18px;">
 The City Science Laboratory brings together a multidisciplinary team of researchers with expertise in physics, mathematics, and computer science. United by a common goal of understanding urban complexity, we develop innovative methodologies and computational tools to address challenges in mobility, climate resilience, and energy efficiency.
+</p>
 
 {% include section.html %}
 
