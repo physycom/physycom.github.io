@@ -1,5 +1,5 @@
 ---
-name: Lorenzo di Meco
+name: Lorenzo Di Meco
 image: https://github.com/lorenzodimeco3.png
 role: phd
 order: 3
