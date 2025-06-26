@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 1
+  order: 3
   tooltip: Published works
 ---
 
@@ -31,6 +31,8 @@ nav:
 
 
 {% include citation.html lookup="A stochastic model of randomly accelerated walkers for human mobility" style="rich" %}
+
+{% include citation.html lookup="Congestion Transition on Random Walks on Graphs" style="rich" %}
 
 
 {% include section.html %}
