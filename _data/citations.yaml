@@ -1040,6 +1040,20 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.30935/ojcmt/16669
+  title: 'Trailer Reimagined: An Innovative, Llm-DRiven, Expressive Automated Movie
+    Summary framework (TRAILDREAMS)'
+  authors:
+  - Roberto Balestri
+  - Pasquale Cascarano
+  - Mirko Degli Esposti
+  - Guglielmo Pescatore
+  publisher: Online Journal of Communication and Media Technologies
+  date: '2025-07-28'
+  link: https://doi.org/g9v24v
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21428/93b7ef64.ec022085
   title: Exploring TV Seriality and Television Studies through Data-Driven Approaches
   authors:
