@@ -24,6 +24,15 @@
   - urban mobility
   - statistics
   - multimodal
+- id: issn:23318422
+  title: ISSN 2331-8422 (Online) | ArXiv.org | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1103/PhysRevAccelBeams.24.094002
   title: Adiabaticity of emittance exchange due to crossing of the coupling resonance
   authors:
@@ -182,6 +191,15 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: issn:18248039
+  title: ISSN 1824-8039 (Online) | Pos proceedings of science | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/18248039
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.laa.2018.01.009
   title: On the multiplicity of Laplacian eigenvalues and Fiedler partitions
   authors:
@@ -305,6 +323,15 @@
   publisher: "Comptes Rendus. M\xE9canique"
   date: '2014-08-06'
   link: https://doi.org/g89wj8
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:00356050
+  title: ISSN 0035-6050 (Print) | Rivista di biologia | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/00356050
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -446,6 +473,25 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: issn:19727356
+  title: "ISSN 1972-7356 (Print) | La Matematica nella societ\xE0 e nella cultura\
+    \ | The ISSN Portal"
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/19727356
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:20385722 20385757
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/20385722 20385757
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.plrev.2011.01.008
   title: "Preliminaries for a future mathematical formulation of Evolution TheoryComment\
     \ on \u201CToward a mathematical theory of living systems focusing on developmental\
@@ -484,6 +530,15 @@
   publisher: Physical Review E
   date: '2010-05-17'
   link: https://doi.org/bt2fmx
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:22454586 19044720
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/22454586 19044720
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -598,6 +653,16 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: issn:09513248
+  title: ISSN 0951-3248 (Print) | Institute of physics conference series | The ISSN
+    Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/09513248
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1063/1.1949518
   title: Adiabatic Halo Formation
   authors:
@@ -659,6 +724,15 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2003-06-01'
   link: https://doi.org/fs54k3
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:22822593
+  title: ISSN 2282-2593 (Print) | Theoretical biology forum | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/22822593
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
