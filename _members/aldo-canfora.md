@@ -2,7 +2,7 @@
 name: Aldo Canfora
 image: https://github.com/AldoCanfora.png
 role: phd
-order: 4
+order: 6
 category: current
 affiliation: University of Bologna - CINECA
 links:
