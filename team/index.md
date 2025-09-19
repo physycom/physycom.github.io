@@ -13,9 +13,13 @@ The City Science Laboratory brings together a multidisciplinary team of research
 
 {% include section.html %}
 
-{% assign professors = site.members | where_exp: "m", "m.role contains 'professor'" | sort: "order" %}
+{% assign current_members = site.members | where: "category", "current" | sort: "order" %}
+{% assign former_members = site.members | where: "category", "former" | sort: "order" %}
+{% assign external_members = site.members | where: "category", "external" | sort: "order" %}
 
-{% for member in professors %}
+## Current Members
+
+{% for member in current_members %}
   {% include portrait.html 
     name=member.name
     image=member.image
@@ -28,20 +32,38 @@ The City Science Laboratory brings together a multidisciplinary team of research
   %}
 {% endfor %}
 
-{% assign others = site.members | sort: "order" %}
-{% for member in others %}
-  {% unless member.role contains 'professor' %}
-    {% include portrait.html 
-      name=member.name
-      image=member.image
-      role=member.role
-      affiliation=member.affiliation
-      links=member.links
-      order=member.order
-      description=member.description
-      slug=member.slug
-    %}
-  {% endunless %}
+{% if former_members.size > 0 %}
+## Former Members
+
+{% for member in former_members %}
+  {% include portrait.html 
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    order=member.order
+    description=member.description
+    slug=member.slug
+  %}
 {% endfor %}
+{% endif %}
+
+{% if external_members.size > 0 %}
+## External Collaborators
+
+{% for member in external_members %}
+  {% include portrait.html 
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    order=member.order
+    description=member.description
+    slug=member.slug
+  %}
+{% endfor %}
+{% endif %}
 
 

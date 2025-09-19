@@ -3,6 +3,7 @@ name: Matteo Falcioni
 image: images/matteo_falcioni.png
 role: researcher
 order: 9
+category: current
 affiliation: University of Bologna
 links:
   github: MatteoFalcioni
