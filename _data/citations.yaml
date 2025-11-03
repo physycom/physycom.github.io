@@ -1,5 +1,75 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.chaos.2025.117407
+  title: Equivalence of stationary dynamical solutions in a directed chain and a Delay
+    Differential Equation of neuroscientific relevance
+  authors:
+  - Giulio Colombini
+  - Nicola Guglielmi
+  - Armando Bazzani
+  publisher: Chaos, Solitons &amp; Fractals
+  date: '2025-12-01'
+  link: https://doi.org/g9749f
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevAccelBeams.28.014001
+  title: Cleaning the beam halo using nonlinear ac magnets
+  authors:
+  - F. Capoani
+  - A. Bazzani
+  - M. Giovannozzi
+  publisher: Physical Review Accelerators and Beams
+  date: '2025-01-31'
+  link: https://doi.org/g9749g
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0218339024400096
+  title: 'A PROBABILISTIC PHENOTYPE DYNAMICAL MODEL FOR SYMPATRIC SPECIATION: SOME
+    PROPERTIES AND NUMERICAL RESULTS'
+  authors:
+  - ARMANDO BAZZANI
+  - "RAFFAELE D\u2019AMBROSIO"
+  - PAOLO FREGUGLIA
+  - EZIO VENTURINO
+  publisher: Journal of Biological Systems
+  date: '2024-11-28'
+  link: https://doi.org/g9749h
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjds/s13688-023-00431-4
+  title: Individual mobility deep insight using mobile phones data
+  authors:
+  - Chiara Mizzi
+  - Alex Baroncini
+  - Alessandro Fabbri
+  - Davide Micheli
+  - Aldo Vannelli
+  - Carmen Criminisi
+  - Susanna Jean
+  - Armando Bazzani
+  publisher: EPJ Data Science
+  date: '2023-12-08'
+  link: https://doi.org/g9749j
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/e25030394
+  title: Random Walk Approximation for Stochastic Processes on Graphs
+  authors:
+  - Stefano Polizzi
+  - Tommaso Marzi
+  - Tommaso Matteuzzi
+  - Gastone Castellani
+  - Armando Bazzani
+  publisher: Entropy
+  date: '2023-02-21'
+  link: https://doi.org/g9749k
+  orcid: 0000-0002-9633-0017
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/1742-5468/ac4c40
   title: A survival model to explain the statistical properties of multimodal mobility
   authors:
