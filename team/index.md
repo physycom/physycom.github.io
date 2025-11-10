@@ -16,6 +16,7 @@ The City Science Laboratory brings together a multidisciplinary team of research
 {% assign current_members = site.members | where: "category", "current" | sort: "order" %}
 {% assign former_members = site.members | where: "category", "former" | sort: "order" %}
 {% assign external_members = site.members | where: "category", "external" | sort: "order" %}
+{% assign ex_members = site.members | where: "category", "ex" | sort: "order" %}
 
 ## Current Members
 
@@ -66,4 +67,17 @@ The City Science Laboratory brings together a multidisciplinary team of research
 {% endfor %}
 {% endif %}
 
+## Ex Members and Collaborators
 
+{% for member in ex_members %}
+  {% include portrait.html 
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    order=member.order
+    description=member.description
+    slug=member.slug
+  %}
+{% endfor %}
