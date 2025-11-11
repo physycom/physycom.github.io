@@ -2,7 +2,7 @@
 name: Matteo Falcioni
 image: images/matteo_falcioni.png
 role: researcher
-order: 10
+order: 20
 category: current
 affiliation: University of Bologna
 links:
