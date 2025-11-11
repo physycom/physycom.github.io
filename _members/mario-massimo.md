@@ -12,5 +12,5 @@ links:
 ---
 
 <p style="font-family: 'Georgia', serif; font-size: 18px;">
-PhD student in Applied Physics and Complex Systems
+PhD student in Applied Physics developing AI tools for urban applications.
 </p>
