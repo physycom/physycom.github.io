@@ -6,7 +6,7 @@ order: 11
 category: current
 affiliation: University of Bologna 
 links:
-  home-page: https://https://www.unibo.it/sitoweb/mario.massimo2/en
+  home-page: https://www.unibo.it/sitoweb/mario.massimo2/en
   github: TheMariuolo
   email: mario.massimo2@unibo.it
 ---
