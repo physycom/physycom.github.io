@@ -11,6 +11,21 @@ nav:
 {% include section.html %}
 
 ## Highlighted
+
+
+{% include citation.html lookup="Urban Complexity through Vision Intelligence: Variance, Gradients, and Correlations across Six Italian Cities" style="rich" %}
+
+{% include citation.html lookup="Urban buildings energy consumption estimation using HPC: A case study of Bologna" style="rich" %}
+
+{% include citation.html lookup="Emergence of power laws in hierarchical dynamics on multi-level graphs" style="rich" %}
+
+{% include citation.html lookup="Congestion transition on random walks on graphs" style="rich" %}
+
+{% include citation.html lookup="A proposal for an entropy based approach to data driven models for urban mobility" style="rich" %}
+
+{% include citation.html lookup="LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins" style="rich" %}
+
+{% include citation.html lookup="A survival model to explain the statistical properties of multimodal mobility" style="rich" %}
 {% include citation.html lookup="A survival model to explain the statistical properties of multimodal mobility" style="rich" %}
 
 {% include citation.html lookup="Modellizzazione della mobilità urbana. Una nuova sfida per la teoria dei sistemi dinamici" style="rich" %}
