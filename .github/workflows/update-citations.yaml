@@ -31,18 +31,6 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Check GOOGLE_SCHOLAR_API_KEY presence
-        run: |
-          echo "========================================";
-          echo "Checking GOOGLE_SCHOLAR_API_KEY...";
-          if [ -z "${GOOGLE_SCHOLAR_API_KEY}" ]; then
-            echo "❌ GOOGLE_SCHOLAR_API_KEY is EMPTY or not set";
-          else
-            echo "✅ GOOGLE_SCHOLAR_API_KEY appears to be set (length > 0)";
-            echo "First 4 chars: ${GOOGLE_SCHOLAR_API_KEY:0:4}********";
-          fi
-          echo "========================================";
-
       - name: Debug dump
         if: runner.debug == '1'
         uses: crazy-max/ghaction-dump-context@v2
