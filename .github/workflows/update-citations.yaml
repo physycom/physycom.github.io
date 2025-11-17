@@ -7,6 +7,9 @@ on:
     inputs:
       open-pr:
         type: boolean
+    secrets:
+      GOOGLE_SCHOLAR_API_KEY:
+        required: true
     outputs:
       changed:
         value: ${{ jobs.update-citations.outputs.changed }}
