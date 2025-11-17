@@ -1,34 +1,54 @@
 ---
-title: Projects
+title: Publications
 nav:
   order: 3
-  tooltip: Projects in which we work and posters
+  tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-<p style="font-family: 'Georgia', serif; font-size: 18px;">
-The City Science Laboratory engages in research projects that enhance urban sustainability, resilience, and data-driven decision-making. We collaborate across disciplines to develop innovative solutions in mobility, climate adaptation, and cultural heritage preservation. In particular, the projects focus on smart strategies for sustainable tourism, an observatory for early warning and risk assessment of emerging infectious diseases, and the developing of nature-based solutions to mitigate hydro-meteorological risks. Through these initiatives, we contribute to advancing scientific methodologies and computational tools for urban and environmental challenges. 
-</p>
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include list.html component="card" data="projects" filter="group == 'highlighted'" %}
+{% include citation.html lookup="Urban Complexity through Vision Intelligence: Variance, Gradients, and Correlations across Six Italian Cities" style="rich" %}
+
+{% include citation.html lookup="Urban buildings energy consumption estimation using HPC: A case study of Bologna" style="rich" %}
+
+{% include citation.html lookup="Emergence of power laws in hierarchical dynamics on multi-level graphs" style="rich" %}
+
+{% include citation.html lookup="Congestion transition on random walks on graphs" style="rich" %}
+
+{% include citation.html lookup="A proposal for an entropy based approach to data driven models for urban mobility" style="rich" %}
+
+{% include citation.html lookup="LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins" style="rich" %}
+
+{% include citation.html lookup="A survival model to explain the statistical properties of multimodal mobility" style="rich" %}
+
+{% include citation.html lookup="Modellizzazione della mobilità urbana. Una nuova sfida per la teoria dei sistemi dinamici" style="rich" %}
+
+{% include citation.html lookup="A stochastic compartmental model to simulate the Covid-19 epidemic spread on a simple network" style="rich" %}
+
+{% include citation.html lookup="Unraveling pedestrian mobility on a road network using ICTs data during great tourist events" style="rich" %}
+
+{% include citation.html lookup="A stochastic model of randomly accelerated walkers for human mobility" style="rich" %}
+
+{% include citation.html lookup="Understanding the variability of daily travel-time expenditures using GPS trajectory data" style="rich" %}
+
+{% include citation.html lookup="MODELING TRAFFIC FLUCTUATIONS AND CONGESTION ON A ROAD NETWORK" style="rich" %}
+
+{% include citation.html lookup="Dynamical Systems on Graphs : from Random Walks to Transportation Networks" style="rich" %}
+
+{% include citation.html lookup="Congestion Transition on Random Walks on Graphs" style="rich" %}
+
 
 {% include section.html %}
 
-## Featured
+## All
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include search-box.html %}
 
-{% include section.html %}
+{% include search-info.html %}
 
-<!-- ## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %} -->
+{% include list.html data="citations" component="citation" style="rich" %}

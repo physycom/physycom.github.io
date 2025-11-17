@@ -1,5 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: "Urban Complexity through Vision Intelligence: Variance, Gradients, and Correlations across Six Italian Cities"
+  authors:
+    - Mirko Degli Esposti
+    - Armando Bazzani
+    - Chiara Dellacasa
+    - Matteo Falcioni
+    - Mario Massimon
+    - Martino Pietropoli
+  publisher: Preprint
+  date: 2025
+  link: https://arxiv.org/abs/2511.09258
+  status: "Submitted for publication"
+
+- title: "Urban buildings energy consumption estimation using HPC: A case study of Bologna"
+  authors:
+    - Aldo Canfora
+    - Eleonora Bergamaschi
+    - Riccardo Mioli
+    - Federico Battini
+    - Mirko Degli Esposti
+    - Giorgio Pedrazzi
+  publisher: Preprint
+  date: 2025
+  status: "Submitted for publication"
+
+- title: "Emergence of power laws in hierarchical dynamics on multi-level graphs"
+  authors:
+    - Tommaso Rondini
+    - Gregorio Berselli
+    - Mirko Degli Esposti
+    - Armando Bazzani
+  publisher: Preprint
+  date: 2024
+  link: https://arxiv.org/abs/2509.18782
+
+- title: "Congestion transition on random walks on graphs"
+  authors:
+    - Lorenzo Di Meco
+    - Mirko Degli Esposti
+    - Federico Bellisardi
+    - Armando Bazzani
+  publisher: Entropy
+  date: 2024
+  volume: 26
+  pages: "1-25"
+  issue: Article number 632
+  link: https://arxiv.org/abs/2405.16100
+
+- title: "A proposal for an entropy based approach to data driven models for urban mobility"
+  authors:
+    - Armando Bazzani
+    - Lorenzo Di Meco
+    - Giulio Colombini
+    - Mirko Degli Esposti
+  publisher: Preprint
+  date: 2025
+  status: "Submitted for publication"
+
+- title: "LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins"
+  authors:
+    - Antonella Guidazzoli
+    - Alex Gianelli
+    - Federico Andrucci
+    - Mirko Degli Esposti
+  publisher: "Cineca HPC Annual Report 2023-2024"
+  date: 2024
+  pages: "75-77"
+  location: "Bologna, Cineca Consorzio Interuniversitario"
+
 - id: doi:10.1016/j.chaos.2025.117407
   title: Equivalence of stationary dynamical solutions in a directed chain and a Delay
     Differential Equation of neuroscientific relevance
