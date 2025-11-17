@@ -35,6 +35,16 @@ jobs:
         if: runner.debug == '1'
         uses: crazy-max/ghaction-dump-context@v2
 
+      - name: Check GOOGLE_SCHOLAR_API_KEY presence
+        if: github.event.action != 'closed'
+        run: |
+          if [ -z "${GOOGLE_SCHOLAR_API_KEY}" ]; then
+            echo "GOOGLE_SCHOLAR_API_KEY is EMPTY or not set";
+          else
+            echo "GOOGLE_SCHOLAR_API_KEY appears to be set (length > 0)";
+            echo "First 4 chars: ${GOOGLE_SCHOLAR_API_KEY:0:4}******** (truncated)";
+          fi
+
       - name: Checkout branch contents
         if: github.event.action != 'closed'
         uses: actions/checkout@v4
