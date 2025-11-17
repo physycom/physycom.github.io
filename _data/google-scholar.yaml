@@ -1,0 +1,10 @@
+# Google Scholar author IDs
+# To find a researcher's Google Scholar ID:
+# 1. Go to https://scholar.google.com
+# 2. Search for the researcher
+# 3. Click on their profile
+# 4. The URL will look like: https://scholar.google.com/citations?user=XXXXXXXXX
+# 5. Use XXXXXXXXX as the gsid below
+
+- gsid: flhs-gwAAAAJ # Mirko Degli Esposti
+- gsid: Z6lHULUAAAAJ # Gregorio Berselli
