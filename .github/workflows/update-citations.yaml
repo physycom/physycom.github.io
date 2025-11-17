@@ -58,6 +58,8 @@ jobs:
 
       - name: Build updated citations
         if: github.event.action != 'closed'
+        env:
+          GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
         run: python _cite/cite.py
         timeout-minutes: 15
 
