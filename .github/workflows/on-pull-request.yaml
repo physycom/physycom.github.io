@@ -16,6 +16,8 @@ permissions:
 jobs:
   update-citations:
     uses: ./.github/workflows/update-citations.yaml
+    secrets:
+      GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
 
   build-preview:
     needs: update-citations
