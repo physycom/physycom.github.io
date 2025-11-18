@@ -2,6 +2,13 @@
 
 Reference: common-changelog.org
 
+## 1.3.8 - 2025-11-17
+
+### Changed
+
+- Inherit secrets in GitHub Actions workflows where appropriate
+- Add commented out ORCID plugin code to discard source if no ID
+
 ## 1.3.7 - 2025-07-31
 
 ### Changed
