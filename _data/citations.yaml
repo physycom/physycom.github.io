@@ -82,18 +82,8 @@
   date: '2022-02-01'
   link: https://doi.org/g89wjq
   orcid: 0000-0002-0005-0441
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: In this paper, we cope with the problem of the existence of universal
-    features for pedestrian, bike and vehicular urban mobility. In particular, we
-    propose the use of travel time as the universal energy for the mobility and we
-    define a simple survival model that explains the travel time distribution of the
-    different mobility types.
-  tags:
-  - urban mobility
-  - statistics
-  - multimodal
+  plugin: orcid.py
+  file: orcid.yaml
 - id: issn:23318422
   title: ISSN 2331-8422 (Online) | ArXiv.org | The ISSN Portal
   authors: []
@@ -1307,3 +1297,123 @@
   orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
+- id: arxiv:2511.09258
+  title: 'Urban Complexity through Vision Intelligence: Variance, Gradients, and Correlations
+    across Six Italian Cities'
+  authors:
+  - Mirko Degli Esposti
+  - Armando Bazzani
+  - Chiara Dellacasa
+  - Matteo Falcioni
+  - Mario Massimo
+  - Martino Pietropoli
+  publisher: arXiv preprint
+  date: '2025-11-01'
+  link: https://arxiv.org/abs/2511.09258
+  type: preprint
+  description: Analysis of urban complexity through vision intelligence across six
+    Italian cities.
+  tags:
+  - urban complexity
+  - computer vision
+  - urban planning
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Urban buildings energy consumption estimation using HPC: A case study of
+    Bologna'
+  authors:
+  - Aldo Canfora
+  - Eleonora Bergamaschi
+  - Riccardo Mioli
+  - Federico Battini
+  - Mirko Degli Esposti
+  - Giorgio Pedrazzi
+  publisher: Preprint
+  date: '2025-01-01'
+  type: preprint
+  description: High-performance computing approach to estimating urban building energy
+    consumption in Bologna.
+  tags:
+  - energy consumption
+  - HPC
+  - urban modeling
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2509.18782
+  title: Emergence of power laws in hierarchical dynamics on multi-level graphs
+  authors:
+  - Tommaso Rondini
+  - Gregorio Berselli
+  - Mirko Degli Esposti
+  - Armando Bazzani
+  publisher: arXiv preprint
+  date: '2025-09-01'
+  link: https://arxiv.org/abs/2509.18782
+  type: preprint
+  description: Study of power law emergence in hierarchical dynamics on multi-level
+    graph structures.
+  tags:
+  - power laws
+  - graph theory
+  - hierarchical dynamics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/e26080632
+  title: Congestion transition on random walks on graphs
+  authors:
+  - Lorenzo Di Meco
+  - Mirko Degli Esposti
+  - Federico Bellisardi
+  - Armando Bazzani
+  publisher: Entropy
+  date: '2024-08-01'
+  link: https://doi.org/10.3390/e26080632
+  type: paper
+  description: Investigation of congestion transitions in random walk processes on
+    graph structures.
+  tags:
+  - random walks
+  - congestion
+  - graph theory
+  volume: 26
+  issue: 632
+  pages: 1-25
+  plugin: sources.py
+  file: sources.yaml
+- title: A proposal for an entropy based approach to data driven models for urban
+    mobility
+  authors:
+  - Armando Bazzani
+  - Lorenzo Di Meco
+  - Giulio Colombini
+  - Mirko Degli Esposti
+  publisher: Preprint
+  date: '2025-01-01'
+  type: preprint
+  description: Novel entropy-based methodology for data-driven urban mobility modeling.
+  tags:
+  - entropy
+  - urban mobility
+  - data-driven models
+  plugin: sources.py
+  file: sources.yaml
+- title: 'LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital
+    Twins'
+  authors:
+  - Antonella Guidazzoli
+  - Alex Gianelli
+  - Federico Andrucci
+  - Mirko Degli Esposti
+  publisher: Cineca HPC Annual Report 2023-2024
+  date: '2024-01-01'
+  type: report
+  description: Application of LiDAR and orthophoto data for creating 3D environmental
+    simulations in urban digital twin projects.
+  tags:
+  - LiDAR
+  - digital twins
+  - urban modeling
+  - HPC
+  pages: 75-77
+  plugin: sources.py
+  file: sources.yaml
