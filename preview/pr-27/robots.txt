@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://physycom.github.io/sitemap.xml
+
+# Disallow access to admin/private areas (add if you have any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all search engines to crawl the site
+# This is a public academic/research website
