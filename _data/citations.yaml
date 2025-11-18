@@ -10,7 +10,7 @@
   publisher: Chaos, Solitons &amp; Fractals
   date: '2025-12-01'
   link: https://doi.org/g9749f
-  orcid: 0000-0002-9633-0017
+  orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevAccelBeams.28.014001
@@ -81,7 +81,7 @@
   publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
   date: '2022-02-01'
   link: https://doi.org/g89wjq
-  orcid: 0000-0002-9633-0017
+  orcid: 0000-0002-0005-0441
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -1263,5 +1263,47 @@
   date: '2016-03-13'
   link: https://doi.org/gknf3p
   orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.27.25324700
+  title: Human mobility and sewage data correlate with COVID-19 epidemic evolution
+    in the metropolitan area of Bologna
+  authors:
+  - Francesco Durazzi
+  - Enrico Lunedei
+  - Giulio Colombini
+  - Giulia Gatti
+  - Vittorio Sambri
+  - Alessandra de Cesare
+  - Cecilia Crippa
+  - "Fr\xE9d\xE9rique Pasquali"
+  - Gastone Castellani
+  - Daniel Remondini
+  - Armando Bazzani
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-28'
+  link: https://doi.org/hbbn9g
+  orcid: 0000-0002-0005-0441
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12879-025-11520-2
+  title: Human mobility and sewage data correlate with COVID-19 epidemic evolution
+    in a 3-year surveillance of the metropolitan area of Bologna
+  authors:
+  - Francesco Durazzi
+  - Enrico Lunedei
+  - Giulio Colombini
+  - Giulia Gatti
+  - Vittorio Sambri
+  - Alessandra De Cesare
+  - Cecilia Crippa
+  - "Fr\xE9d\xE9rique Pasquali"
+  - Gastone Castellani
+  - Daniel Remondini
+  - Armando Bazzani
+  publisher: BMC Infectious Diseases
+  date: '2025-10-31'
+  link: https://doi.org/hbbn9h
+  orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
