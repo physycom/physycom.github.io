@@ -7,10 +7,10 @@
     - Armando Bazzani
     - Chiara Dellacasa
     - Matteo Falcioni
-    - Mario Massimon
+    - Mario Massimo
     - Martino Pietropoli
   publisher: arXiv preprint
-  date: 2025
+  date: '2025-11-01'
   link: https://arxiv.org/abs/2511.09258
   type: preprint
   description: Analysis of urban complexity through vision intelligence across six Italian cities.
@@ -19,8 +19,7 @@
     - computer vision
     - urban planning
 
-- id: custom:urban-buildings-energy-hpc
-  title: "Urban buildings energy consumption estimation using HPC: A case study of Bologna"
+- title: "Urban buildings energy consumption estimation using HPC: A case study of Bologna"
   authors:
     - Aldo Canfora
     - Eleonora Bergamaschi
@@ -29,7 +28,7 @@
     - Mirko Degli Esposti
     - Giorgio Pedrazzi
   publisher: Preprint
-  date: 2025
+  date: '2025-01-01'
   type: preprint
   description: High-performance computing approach to estimating urban building energy consumption in Bologna.
   tags:
@@ -45,7 +44,7 @@
     - Mirko Degli Esposti
     - Armando Bazzani
   publisher: arXiv preprint
-  date: 2025
+  date: '2025-09-01'
   link: https://arxiv.org/abs/2509.18782
   type: preprint
   description: Study of power law emergence in hierarchical dynamics on multi-level graph structures.
@@ -62,7 +61,7 @@
     - Federico Bellisardi
     - Armando Bazzani
   publisher: Entropy
-  date: 2024-08
+  date: '2024-08-01'
   link: https://doi.org/10.3390/e26080632
   type: paper
   description: Investigation of congestion transitions in random walk processes on graph structures.
@@ -74,15 +73,14 @@
   issue: 632
   pages: 1-25
 
-- id: custom:entropy-approach-urban-mobility
-  title: "A proposal for an entropy based approach to data driven models for urban mobility"
+- title: "A proposal for an entropy based approach to data driven models for urban mobility"
   authors:
     - Armando Bazzani
     - Lorenzo Di Meco
     - Giulio Colombini
     - Mirko Degli Esposti
   publisher: Preprint
-  date: 2025
+  date: '2025-01-01'
   type: preprint
   description: Novel entropy-based methodology for data-driven urban mobility modeling.
   tags:
@@ -90,15 +88,14 @@
     - urban mobility
     - data-driven models
 
-- id: custom:lidar-orthophotos-digital-twins
-  title: "LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins"
+- title: "LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins"
   authors:
     - Antonella Guidazzoli
     - Alex Gianelli
     - Federico Andrucci
     - Mirko Degli Esposti
   publisher: "Cineca HPC Annual Report 2023-2024"
-  date: 2024
+  date: '2024-01-01'
   type: report
   description: Application of LiDAR and orthophoto data for creating 3D environmental simulations in urban digital twin projects.
   tags:
