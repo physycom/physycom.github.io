@@ -1297,6 +1297,262 @@
   orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1051/0004-6361/202450446
+  title: <i>Euclid</i> preparation
+  authors:
+  - L. Bisigello
+  - M. Massimo
+  - C. Tortora
+  - S. Fotopoulou
+  - V. Allevato
+  - M. Bolzonella
+  - C. Gruppioni
+  - L. Pozzetti
+  - G. Rodighiero
+  - S. Serjeant
+  - P. A. C. Cunha
+  - L. Gabarra
+  - A. Feltre
+  - A. Humphrey
+  - F. La Franca
+  - H. Landt
+  - F. Mannucci
+  - I. Prandoni
+  - M. Radovich
+  - F. Ricci
+  - M. Salvato
+  - F. Shankar
+  - D. Stern
+  - L. Spinoglio
+  - D. Vergani
+  - C. Vignali
+  - G. Zamorani
+  - L. Y. A. Yung
+  - S. Charlot
+  - N. Aghanim
+  - A. Amara
+  - S. Andreon
+  - N. Auricchio
+  - M. Baldi
+  - S. Bardelli
+  - P. Battaglia
+  - R. Bender
+  - D. Bonino
+  - E. Branchini
+  - S. Brau-Nogue
+  - M. Brescia
+  - S. Camera
+  - V. Capobianco
+  - C. Carbone
+  - J. Carretero
+  - S. Casas
+  - F. J. Castander
+  - M. Castellano
+  - S. Cavuoti
+  - A. Cimatti
+  - G. Congedo
+  - C. J. Conselice
+  - L. Conversi
+  - Y. Copin
+  - L. Corcione
+  - F. Courbin
+  - H. M. Courtois
+  - M. Cropper
+  - A. Da Silva
+  - H. Degaudenzi
+  - A. M. Di Giorgio
+  - J. Dinis
+  - X. Dupac
+  - S. Dusini
+  - A. Ealet
+  - M. Farina
+  - S. Farrens
+  - S. Ferriol
+  - M. Frailis
+  - E. Franceschi
+  - P. Franzetti
+  - M. Fumana
+  - S. Galeotta
+  - B. Garilli
+  - B. Gillis
+  - C. Giocoli
+  - B. R. Granett
+  - A. Grazian
+  - F. Grupp
+  - L. Guzzo
+  - S. V. H. Haugan
+  - W. Holmes
+  - I. Hook
+  - F. Hormuth
+  - A. Hornstrup
+  - K. Jahnke
+  - "E. Keih\xE4nen"
+  - S. Kermiche
+  - A. Kiessling
+  - M. Kilbinger
+  - T. Kitching
+  - "M. K\xFCmmel"
+  - M. Kunz
+  - H. Kurki-Suonio
+  - S. Ligori
+  - P. B. Lilje
+  - V. Lindholm
+  - I. Lloro
+  - E. Maiorano
+  - O. Mansutti
+  - O. Marggraf
+  - K. Markovic
+  - N. Martinet
+  - F. Marulli
+  - R. Massey
+  - S. Maurogordato
+  - E. Medinaceli
+  - S. Mei
+  - Y. Mellier
+  - M. Meneghetti
+  - E. Merlin
+  - G. Meylan
+  - M. Moresco
+  - L. Moscardini
+  - E. Munari
+  - S.-M. Niemi
+  - C. Padilla
+  - S. Paltani
+  - F. Pasian
+  - K. Pedersen
+  - W. J. Percival
+  - V. Pettorino
+  - G. Polenta
+  - M. Poncet
+  - F. Raison
+  - R. Rebolo
+  - A. Renzi
+  - J. Rhodes
+  - G. Riccio
+  - E. Romelli
+  - M. Roncarelli
+  - E. Rossetti
+  - R. Saglia
+  - D. Sapone
+  - B. Sartoris
+  - M. Schirmer
+  - P. Schneider
+  - T. Schrabback
+  - A. Secroun
+  - G. Seidel
+  - S. Serrano
+  - C. Sirignano
+  - G. Sirri
+  - L. Stanco
+  - C. Surace
+  - "P. Tallada-Cresp\xED"
+  - A. N. Taylor
+  - I. Tereno
+  - R. Toledo-Moreo
+  - F. Torradeflot
+  - I. Tutusaus
+  - E. A. Valentijn
+  - L. Valenziano
+  - T. Vassallo
+  - Y. Wang
+  - J. Zoubian
+  - E. Zucca
+  - A. Biviano
+  - E. Bozzo
+  - C. Colodro-Conde
+  - D. Di Ferdinando
+  - G. Fabbian
+  - "J. Graci\xE1-Carpio"
+  - S. Marcin
+  - N. Mauri
+  - Z. Sakr
+  - V. Scottez
+  - M. Tenti
+  - Y. Akrami
+  - C. Baccigalupi
+  - M. Ballardini
+  - M. Bethermin
+  - A. Blanchard
+  - S. Borgani
+  - A. S. Borlaff
+  - S. Bruton
+  - C. Burigana
+  - R. Cabanac
+  - A. Calabro
+  - A. Cappi
+  - C. S. Carvalho
+  - G. Castignani
+  - T. Castro
+  - K. C. Chambers
+  - A. R. Cooray
+  - J. Coupon
+  - O. Cucciati
+  - S. Davini
+  - G. De Lucia
+  - G. Desprez
+  - "A. D\xEDaz-S\xE1nchez"
+  - S. Di Domizio
+  - H. Dole
+  - J. A. Escartin Vigo
+  - S. Escoffier
+  - I. Ferrero
+  - F. Finelli
+  - K. Ganga
+  - "J. Garc\xEDa-Bellido"
+  - F. Giacomini
+  - G. Gozaliasl
+  - A. Gregorio
+  - H. Hildebrandt
+  - "A. Jiminez Mu\xF1oz"
+  - J. J. E. Kajava
+  - V. Kansal
+  - D. Karagiannis
+  - C. C. Kirkpatrick
+  - L. Legrand
+  - A. Loureiro
+  - J. Macias-Perez
+  - G. Maggio
+  - M. Magliocchetti
+  - G. Mainetti
+  - R. Maoli
+  - M. Martinelli
+  - C. J. A. P. Martins
+  - S. Matthew
+  - L. Maurin
+  - R. B. Metcalf
+  - M. Migliaccio
+  - P. Monaco
+  - G. Morgante
+  - S. Nadathur
+  - L. Patrizii
+  - V. Popa
+  - C. Porciani
+  - D. Potter
+  - "M. P\xF6ntinen"
+  - P.-F. Rocci
+  - "A. G. S\xE1nchez"
+  - A. Schneider
+  - M. Sereno
+  - P. Simon
+  - J. Stadel
+  - S. A. Stanford
+  - J. Steinwagner
+  - G. Testera
+  - M. Tewes
+  - R. Teyssier
+  - S. Toft
+  - S. Tosi
+  - A. Troja
+  - M. Tucci
+  - J. Valiviita
+  - M. Viel
+  - I. A. Zinchenko
+  publisher: Astronomy &amp; Astrophysics
+  date: '2024-10-25'
+  link: https://doi.org/g89mtb
+  orcid: 0009-0006-4712-570X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: arxiv:2511.09258
   title: 'Urban Complexity through Vision Intelligence: Variance, Gradients, and Correlations
     across Six Italian Cities'
