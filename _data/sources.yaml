@@ -36,23 +36,6 @@
     - HPC
     - urban modeling
 
-- id: arxiv:2509.18782
-  title: "Emergence of power laws in hierarchical dynamics on multi-level graphs"
-  authors:
-    - Tommaso Rondini
-    - Gregorio Berselli
-    - Mirko Degli Esposti
-    - Armando Bazzani
-  publisher: arXiv preprint
-  date: '2025-09-01'
-  link: https://arxiv.org/abs/2509.18782
-  type: preprint
-  description: Study of power law emergence in hierarchical dynamics on multi-level graph structures.
-  tags:
-    - power laws
-    - graph theory
-    - hierarchical dynamics
-
 - id: doi:10.3390/e26080632
   title: "Congestion transition on random walks on graphs"
   authors:
