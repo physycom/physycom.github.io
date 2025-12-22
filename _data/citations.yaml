@@ -1174,6 +1174,18 @@
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.physa.2025.131227
+  title: A Zipf-preserving, long-range correlated surrogate for written language and
+    other symbolic sequences
+  authors:
+  - Marcelo A. Montemurro
+  - Mirko Degli Esposti
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2025-12-01'
+  link: https://doi.org/hbggtk
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.30935/ojcmt/16669
   title: 'Trailer Reimagined: An Innovative, Llm-DRiven, Expressive Automated Movie
     Summary framework (TRAILDREAMS)'
@@ -1636,25 +1648,6 @@
   - energy consumption
   - HPC
   - urban modeling
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2509.18782
-  title: Emergence of power laws in hierarchical dynamics on multi-level graphs
-  authors:
-  - Tommaso Rondini
-  - Gregorio Berselli
-  - Mirko Degli Esposti
-  - Armando Bazzani
-  publisher: arXiv preprint
-  date: '2025-09-01'
-  link: https://arxiv.org/abs/2509.18782
-  type: preprint
-  description: Study of power law emergence in hierarchical dynamics on multi-level
-    graph structures.
-  tags:
-  - power laws
-  - graph theory
-  - hierarchical dynamics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/e26080632
