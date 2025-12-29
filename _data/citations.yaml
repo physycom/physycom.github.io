@@ -1186,6 +1186,23 @@
   orcid: 0000-0003-0316-3449
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/urbansci10010004
+  title: 'Urban Buildings Energy Consumption Estimation Leveraging High-Performance
+    Computing: A Case Study of Bologna'
+  authors:
+  - Aldo Canfora
+  - Eleonora Bergamaschi
+  - Riccardo Mioli
+  - Federico Battini
+  - Mirko Degli Esposti
+  - Giorgio Pedrazzi
+  - Chiara Dellacasa
+  publisher: Urban Science
+  date: '2025-12-20'
+  link: https://doi.org/hbgrvh
+  orcid: 0000-0003-0316-3449
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.30935/ojcmt/16669
   title: 'Trailer Reimagined: An Innovative, Llm-DRiven, Expressive Automated Movie
     Summary framework (TRAILDREAMS)'
