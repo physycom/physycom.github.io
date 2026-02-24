@@ -39,21 +39,6 @@
   issue: 632
   pages: 1-25
 
-- title: "A proposal for an entropy based approach to data driven models for urban mobility"
-  authors:
-    - Armando Bazzani
-    - Lorenzo Di Meco
-    - Giulio Colombini
-    - Mirko Degli Esposti
-  publisher: Preprint
-  date: '2025-01-01'
-  type: preprint
-  description: Novel entropy-based methodology for data-driven urban mobility modeling.
-  tags:
-    - entropy
-    - urban mobility
-    - data-driven models
-
 - title: "LiDAR and Orthophotos: Data for 3D Environmental Simulations in Urban Digital Twins"
   authors:
     - Antonella Guidazzoli
