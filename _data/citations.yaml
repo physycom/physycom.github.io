@@ -1340,6 +1340,17 @@
   orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5281/ZENODO.18745493
+  title: DynamicalSystemFramework
+  authors:
+  - Gregorio Berselli
+  - Simone Balducci
+  publisher: Zenodo
+  date: '2026-02-23'
+  link: https://doi.org/hbqgxc
+  orcid: 0009-0004-7797-9138
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/ARXIV.2509.18782
   title: Emergence of power laws in hierarchical dynamics on multi-level graphs
   authors:
