@@ -1,4 +1,4 @@
-- title: Towards an Urban Digital Twin: A use case for the optimization of urban traffic
+- title: "Towards an Urban Digital Twin: A use case for the optimization of urban traffic"
   authors:
     - name: Filippo Dalla
       member: filippo-dalla
@@ -10,6 +10,18 @@
       member: armando-bazzani
     - name: Mirko degli Esposti
       member: mirko-degliesposti
-  pdf: posters/dtw25.pdf
+  pdf: posters/dtw25_Dalla.pdf
+  event: DTW 2025 - Padova
+  date: 2025-02-20
+
+- title: "Urban Building Energy Modelling"
+  authors:
+    - name: Aldo Canfora
+      member: aldo-canfora   
+    - name: Armando Bazzani
+      member: armando-bazzani
+    - name: Mirko degli Esposti
+      member: mirko-degliesposti
+  pdf: posters/dtw25_Canfora.pdf
   event: DTW 2025 - Padova
   date: 2025-02-20
