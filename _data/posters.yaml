@@ -11,7 +11,7 @@
     - name: Mirko degli Esposti
       member: mirko-degliesposti
   pdf: posters/dtw25_Dalla.pdf
-  event: DTW 2025 - Padova
+  event: DTW 2025 - Padua
   date: 2025-02-20
 
 - title: "Urban Building Energy Modelling"
@@ -23,5 +23,19 @@
     - name: Mirko degli Esposti
       member: mirko-degliesposti
   pdf: posters/dtw25_Canfora.pdf
-  event: DTW 2025 - Padova
+  event: DTW 2025 - Padua
   date: 2025-02-20
+
+- title: "Emergence of power laws in hierarchical dynamics on multi-level graphs"
+  authors:
+    - name: Tommaso Rondini
+      member: tommaso-rondini
+    - name: Gregorio Berselli
+      member: gregorio-berselli
+    - name: Armando Bazzani
+      member: armando-bazzani
+    - name: Mirko degli Esposti
+      member: mirko-degliesposti
+  pdf: posters/statphys29_Rondini.pdf
+  event: StatPhys 29 - Florence
+  date: 2025-07-17
