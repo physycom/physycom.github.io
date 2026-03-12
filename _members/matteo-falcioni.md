@@ -1,9 +1,9 @@
 ---
 name: Matteo Falcioni
 image: images/matteo_falcioni.png
-role: researcher
 order: 2
 category: ex
+affiliation: Axpo Group
 links:
   github: MatteoFalcioni
   linkedin: https://www.linkedin.com/in/matteofalcioni/
