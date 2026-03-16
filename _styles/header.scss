@@ -47,6 +47,25 @@ header a {
   height: 100%;
 }
 
+.logo svg {
+  overflow: visible;
+}
+
+.logo svg path,
+.logo svg rect,
+.logo svg circle,
+.logo svg ellipse,
+.logo svg polygon,
+.logo svg polyline,
+.logo svg line {
+  stroke: #fff;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
+  vector-effect: non-scaling-stroke;
+}
+
 .title-text {
   display: flex;
   justify-content: flex-start;
