@@ -1383,11 +1383,11 @@
 - id: doi:10.1038/s41598-025-27487-8
   title: Leveraging complex network features improves vaccine stance classification
   authors:
-  - Durazzi Francesco
-  - "Barbieri Niccol\xF2"
-  - Faccin Mauro
-  - Gori Davide
-  - Remondini Daniel
+  - Francesco Durazzi
+  - "Niccol\xF2 Barbieri"
+  - Mauro Faccin
+  - Davide Gore
+  - Daniel Remondini
   publisher: Scientific Reports
   date: '2025-12-08'
   link: https://doi.org/hbfm4v
