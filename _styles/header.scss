@@ -39,10 +39,14 @@ header a {
 }
 
 .logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: $logo;
 }
 
 .logo > * {
+  display: block;
   width: unset;
   height: 100%;
 }
