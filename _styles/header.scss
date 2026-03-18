@@ -168,11 +168,19 @@ header[data-big] {
   .home {
     flex-direction: column;
     flex-grow: 0;
+    flex-basis: auto;
+    width: 100%;
+    align-items: center;
   }
 
   .logo {
     height: $logo-big;
     flex-shrink: 0;
+    width: 100%;
+  }
+
+  .logo > * {
+    margin: 0 auto;
   }
 
   .title-text {
