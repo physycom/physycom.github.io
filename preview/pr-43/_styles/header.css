@@ -150,10 +150,17 @@ header[data-big] {
 header[data-big] .home {
   flex-direction: column;
   flex-grow: 0;
+  flex-basis: auto;
+  width: 100%;
+  align-items: center;
 }
 header[data-big] .logo {
   height: 400px;
   flex-shrink: 0;
+  width: 100%;
+}
+header[data-big] .logo > * {
+  margin: 0 auto;
 }
 header[data-big] .title-text {
   flex-direction: column;
