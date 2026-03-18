@@ -27,10 +27,14 @@ header a {
 }
 
 .logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 200px;
 }
 
 .logo > * {
+  display: block;
   width: unset;
   height: 100%;
 }
