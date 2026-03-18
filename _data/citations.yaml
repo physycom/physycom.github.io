@@ -1340,14 +1340,13 @@
   orcid: 0000-0002-0005-0441
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5281/ZENODO.18745493
+- id: doi:10.5281/ZENODO.18745492
   title: DynamicalSystemFramework
   authors:
   - Gregorio Berselli
-  - Simone Balducci
   publisher: Zenodo
-  date: '2026-02-23'
-  link: https://doi.org/hbqgxc
+  date: '2026-03-12'
+  link: https://doi.org/hbszpq
   orcid: 0009-0004-7797-9138
   plugin: orcid.py
   file: orcid.yaml
