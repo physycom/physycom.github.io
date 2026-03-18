@@ -160,6 +160,7 @@ header[data-big] .logo {
   width: 100%;
 }
 header[data-big] .logo > * {
+  width: auto;
   margin: 0 auto;
 }
 header[data-big] .title-text {
