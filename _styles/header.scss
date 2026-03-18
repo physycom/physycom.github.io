@@ -30,7 +30,7 @@ header a {
 
 .home {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
@@ -39,14 +39,10 @@ header a {
 }
 
 .logo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: $logo;
 }
 
 .logo > * {
-  display: block;
   width: unset;
   height: 100%;
 }
@@ -168,20 +164,11 @@ header[data-big] {
   .home {
     flex-direction: column;
     flex-grow: 0;
-    flex-basis: auto;
-    width: 100%;
-    align-items: center;
   }
 
   .logo {
     height: $logo-big;
     flex-shrink: 0;
-    width: 100%;
-  }
-
-  .logo > * {
-    width: auto;
-    margin: 0 auto;
   }
 
   .title-text {
