@@ -1,6 +1,6 @@
 {% if include.pdf %}
   <object
-    data="{{ include.pdf | relative_url | uri_escape }}#page=1&view=FitH"
+    data="{{ include.pdf | relative_url | uri_escape }}#page=1&view=FitH&toolbar=0&navpanes=0&scrollbar=0"
     type="application/pdf"
     aria-label="{{ include.title | default: 'PDF preview' | regex_strip }}"
   >
