@@ -45,9 +45,6 @@
 {% assign published = page.date | date_to_xmlschema %}
 {% assign updated = page.last_modified_at | date_to_xmlschema %}
 
-{% assign svg = "images/share.svg" | file_exists %}
-{% assign share = svg | relative_url %}
-
 {% assign feed = "feed.xml" | absolute_url %}
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
