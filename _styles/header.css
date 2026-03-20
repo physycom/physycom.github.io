@@ -162,5 +162,18 @@ header[data-big] .title {
 header[data-big] .subtitle {
   font-size: var(--large);
 }
+@media (max-width: 700px) {
+  header[data-big] {
+    padding: 60px 20px;
+  }
+  header[data-big] .logo {
+    height: auto;
+    width: min(100%, 240px);
+  }
+  header[data-big] .logo > * {
+    width: 100%;
+    height: auto;
+  }
+}
 
 /*# sourceMappingURL=header.css.map */
