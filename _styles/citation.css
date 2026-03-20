@@ -17,12 +17,20 @@
   flex-shrink: 0;
 }
 
-.citation-image img {
+.citation-image {
+  position: relative;
+  width: 180px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.citation-image object {
   position: absolute;
   inset: 0;
-  width: 100%;
+  width: calc(100% + 20px);
   height: 100%;
-  object-fit: contain;
+  border: 0;
+  pointer-events: none;
 }
 
 .citation-text {
