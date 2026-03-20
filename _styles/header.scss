@@ -184,4 +184,18 @@ header[data-big] {
   .subtitle {
     font-size: var(--large);
   }
+
+  @media (max-width: $collapse) {
+    padding: 60px 20px;
+
+    .logo {
+      height: auto;
+      width: min(100%, 240px);
+    }
+
+    .logo > * {
+      width: 100%;
+      height: auto;
+    }
+  }
 }
