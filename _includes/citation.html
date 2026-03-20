@@ -8,22 +8,44 @@
   {% assign citation = include %}
 {% endif %}
 
+{% assign citation_pdf = citation.pdf | default: nil %}
+{% if citation_pdf == nil and citation.buttons.size > 0 %}
+  {% for button in citation.buttons %}
+    {% assign button_link = button.link | default: "" | downcase %}
+    {% assign button_text = button.text | default: "" | downcase %}
+    {% assign button_icon = button.icon | default: "" | downcase %}
+    {% assign is_pdf_link = button_link contains ".pdf" %}
+    {% assign is_pdf_text = button_text contains "pdf" %}
+    {% assign is_pdf_icon = button_icon contains "pdf" %}
+    {% if is_pdf_link or is_pdf_text or is_pdf_icon %}
+      {% assign citation_pdf = button.link %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
       <a
-        {% if citation.link %}
+        {% if citation_pdf %}
+          href="{{ citation_pdf | relative_url | uri_escape }}"
+        {% elsif citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
         {% endif %}
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
       >
-        <img
-          src="{{ citation.image | relative_url | uri_escape }}"
-          alt="{{ citation.title | default: "citation image" | regex_strip }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
+        {% if citation_pdf %}
+          {% include pdf-preview.html pdf=citation_pdf image=citation.image title=citation.title %}
+        {% else %}
+          <img
+            src="{{ citation.image | relative_url | uri_escape }}"
+            alt="{{ citation.title | default: "citation image" | regex_strip }}"
+            loading="lazy"
+            {% include fallback.html %}
+          >
+        {% endif %}
       </a>
     {% endif %}
 

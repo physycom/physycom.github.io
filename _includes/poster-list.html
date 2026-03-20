@@ -2,6 +2,10 @@
 {% for poster in posters %}
 <div class="citation-container">
   <div class="citation">
+    <a href="{{ poster.pdf | relative_url }}" target="_blank" class="citation-image" aria-label="{{ poster.title | default: 'poster link' | regex_strip }}">
+      {% assign poster_image = poster.image | default: '/assets/img/poster-placeholder.png' %}
+      {% include pdf-preview.html pdf=poster.pdf image=poster_image title=poster.title %}
+    </a>
     <div class="citation-text">
       {% include icon.html icon="fa-solid fa-chalkboard" %}
       <a href="{{ poster.pdf | relative_url }}" target="_blank" class="citation-title">{{ poster.title }}</a>
