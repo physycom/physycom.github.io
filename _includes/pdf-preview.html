@@ -4,11 +4,13 @@
     type="application/pdf"
     aria-label="{{ include.title | default: 'PDF preview' | regex_strip }}"
   >
-    <img
-      src="{{ include.image | relative_url | uri_escape }}"
-      alt="{{ include.title | default: 'preview image' | regex_strip }}"
-      loading="lazy"
-      {% include fallback.html %}
-    >
+    {% if include.image %}
+      <img
+        src="{{ include.image | relative_url | uri_escape }}"
+        alt="{{ include.title | default: 'preview image' | regex_strip }}"
+        loading="lazy"
+        {% include fallback.html %}
+      >
+    {% endif %}
   </object>
 {% endif %}
