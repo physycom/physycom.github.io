@@ -85,11 +85,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:23318422
-  title: ISSN 2331-8422 (Online) | ArXiv.org | The ISSN Portal
+  title: ISSN 2331-8422 - ArXiv.org
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/23318422
+  link: https://portal.issn.org/resource/ISSN/2331-8422
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -252,11 +252,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:18248039
-  title: ISSN 1824-8039 (Online) | Pos proceedings of science | The ISSN Portal
+  title: ISSN 1824-8039 - Pos proceedings of science
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/18248039
+  link: https://portal.issn.org/resource/ISSN/1824-8039
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -387,11 +387,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:00356050
-  title: ISSN 0035-6050 (Print) | Rivista di biologia | The ISSN Portal
+  title: ISSN 0035-6050 - Rivista di biologia (Testo stampato)
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/00356050
+  link: https://portal.issn.org/resource/ISSN/0035-6050
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -534,12 +534,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:19727356
-  title: "ISSN 1972-7356 (Print) | La Matematica nella societ\xE0 e nella cultura\
-    \ | The ISSN Portal"
+  title: "ISSN 1972-7356 - La Matematica nella societ\xE0 e nella cultura"
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/19727356
+  link: https://portal.issn.org/resource/ISSN/1972-7356
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -714,12 +713,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09513248
-  title: ISSN 0951-3248 (Print) | Institute of physics conference series | The ISSN
-    Portal
+  title: ISSN 0951-3248 - Institute of physics conference series
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/09513248
+  link: https://portal.issn.org/resource/ISSN/0951-3248
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -788,11 +786,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:22822593
-  title: ISSN 2282-2593 (Print) | Theoretical biology forum | The ISSN Portal
+  title: ISSN 2282-2593 - Theoretical biology forum (Print)
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/22822593
+  link: https://portal.issn.org/resource/ISSN/2282-2593
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -1181,7 +1179,7 @@
   - Marcelo A. Montemurro
   - Mirko Degli Esposti
   publisher: 'Physica A: Statistical Mechanics and its Applications'
-  date: '2025-12-01'
+  date: '2026-02-01'
   link: https://doi.org/hbggtk
   orcid: 0000-0003-0316-3449
   plugin: orcid.py
