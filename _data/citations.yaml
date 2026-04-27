@@ -1377,6 +1377,43 @@
   orcid: 0009-0004-7797-9138
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41598-026-42669-8
+  title: 'Author Correction: Leveraging complex network features improves vaccine
+    stance classification'
+  authors:
+  - Francesco Durazzi
+  - "Niccol\xF2 Barbieri"
+  - Mauro Faccin
+  - Davide Gori
+  - Daniel Remondini
+  publisher: Scientific Reports
+  date: '2026-03-12'
+  link: https://doi.org/hbzkm5
+  orcid: 0009-0001-0694-9909
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fanim.2025.1754069
+  title: 'Use of feed additives to reduce enteric methane emissions in dairy cattle:
+    meta-analysis of data retrieved through a systematic review'
+  authors:
+  - Thomas Dalmonte
+  - "Niccol\xF2 Barbieri"
+  - Serena Giacomozzi
+  - Alberto Palmonari
+  - Valentina Indio
+  - Yari Vecchio
+  - Gulnara Guluzade
+  - Ilgar Abdullayev
+  - Andrea Formigoni
+  - Andrea Serraino
+  - Felice Adinolfi
+  - Alessandra De Cesare
+  publisher: Frontiers in Animal Science
+  date: '2026-02-19'
+  link: https://doi.org/hbzkm6
+  orcid: 0009-0001-0694-9909
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41598-025-27487-8
   title: Leveraging complex network features improves vaccine stance classification
   authors:
