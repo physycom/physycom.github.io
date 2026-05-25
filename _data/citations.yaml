@@ -1361,19 +1361,6 @@
   orcid: 0009-0004-7797-9138
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/ARXIV.2509.18782
-  title: Emergence of power laws in hierarchical dynamics on multi-level graphs
-  authors:
-  - Tommaso Rondini
-  - Gregorio Berselli
-  - Mirko Degli Esposti
-  - Armando Bazzani
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hbfm4s
-  orcid: 0009-0004-7797-9138
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.procs.2025.10.179
   title: Urban Mobility and the Multiscale Structure of Road Networks
   authors:
