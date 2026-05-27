@@ -2,7 +2,7 @@
 name: Tommaso Rondini
 image: images/tommaso_rondini.png
 role: phd
-order: 8
+order: 23
 category: current
 affiliation: University of Bologna - INFN Bologna
 links:
