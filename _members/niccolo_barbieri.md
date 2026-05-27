@@ -2,7 +2,7 @@
 name: Niccolò Barbieri
 image: https://github.com/Niconiki99.png
 role: phd
-order: 10
+order: 25
 category: current
 affiliation: University of Bologna  
 links:

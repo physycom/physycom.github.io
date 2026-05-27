@@ -2,7 +2,7 @@
 name: Giulio Colombini
 image: https://github.com/GColom.png
 role: postdoc
-order: 3
+order: 10
 category: current
 affiliation: University of Bologna - INFN Bologna
 links:

@@ -2,7 +2,7 @@
 name: Alessio Pitteri
 image: images/alessio_pitteri.png
 role: phd
-order: 21
+order: 27
 category: current
 affiliation: University of Bologna 
 links:

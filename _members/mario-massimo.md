@@ -2,7 +2,7 @@
 name: Mario Massimo
 image: images/mario_massimo.jpeg
 role: phd
-order: 11
+order: 26
 category: current
 affiliation: University of Bologna 
 links:
