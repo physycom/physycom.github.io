@@ -16,6 +16,16 @@
   tags:
     - resource
 
+
+- title: DARE
+  subtitle: (Spoke2 - Predictive models for automated disease surveillance system)
+  group: highlighted
+  image: images/DARE_logo_2.0.png
+  link: https://www.fondazionedare.it/en/
+  description: Within the DARE broader initiative, our team has developed an AI Agent designed to make more accessible the use of advanced epidemiological model for large volumes of hospitalization data.  
+  tags:
+    - resource
+
 - title: TALEA
   subtitle: (PN Metro Plus e Città Medie Sud 2021-2027)
   group: highlighted
