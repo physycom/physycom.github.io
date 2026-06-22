@@ -102,7 +102,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/2331-8422
+  link: https://portal.issn.org/resource/ISSN/23318422
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -269,7 +269,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/1824-8039
+  link: https://portal.issn.org/resource/ISSN/18248039
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -404,7 +404,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/0035-6050
+  link: https://portal.issn.org/resource/ISSN/00356050
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -551,7 +551,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/1972-7356
+  link: https://portal.issn.org/resource/ISSN/19727356
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -730,7 +730,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/0951-3248
+  link: https://portal.issn.org/resource/ISSN/09513248
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -803,7 +803,7 @@
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/resource/ISSN/2282-2593
+  link: https://portal.issn.org/resource/ISSN/22822593
   orcid: 0000-0002-9633-0017
   plugin: orcid.py
   file: orcid.yaml
@@ -1356,7 +1356,7 @@
   authors:
   - Gregorio Berselli
   publisher: Zenodo
-  date: '2026-03-12'
+  date: '2026-06-10'
   link: https://doi.org/hbszpq
   orcid: 0009-0004-7797-9138
   plugin: orcid.py
