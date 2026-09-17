@@ -1,16 +1,14 @@
 ---
 name: Alberto Amaduzzi
 image: images/alberto_amaduzzi.jpg
-role: postdoc
-order: 11
-category: current
-affiliation: University of Bologna
+order: 3
+category: ex
+affiliation: INRiM - Istituto Nazionale di Ricerca Metrologica
 links:
   github: albertoamaduzzi
-  email: alberto.amaduzzi3@unibo.it
   linkedin: https://www.linkedin.com/in/alberto-amaduzzi-ph-d-178899164/
 ---
 
 <p style="font-family: 'Georgia', serif; font-size: 18px;">
-Postdoctoral researcher.
+Physicist, Quantum & HPC, Complex Systems & Urban Mobility, Data Analysis
 </p>
