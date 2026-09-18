@@ -1,7 +1,7 @@
 ---
 name: Matteo Martelli
 image: https://github.com/Martelli29.png
-role: PhD
+role: phd
 order: 28
 category: current
 affiliation: University of Bologna 
