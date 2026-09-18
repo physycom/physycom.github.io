@@ -1,13 +1,13 @@
 ---
 name: Matteo Martelli
-image: -
+image: https://github.com/Martelli29.png
 role: PhD
 order: 28
 category: current
 affiliation: University of Bologna 
 links:
-  home-page: -
-  github: [Martelli29](https://github.com/Martelli29)
+  home-page: https://www.unibo.it/sitoweb/matteo.martelli15/en
+  github: Martelli29
   email: matteo.martelli15@unibo.it
 ---
 
