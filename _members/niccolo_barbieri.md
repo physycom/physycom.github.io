@@ -4,7 +4,7 @@ image: https://github.com/Niconiki99.png
 role: phd
 order: 25
 category: current
-affiliation: University of Bologna  
+affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/niccolo.barbieri3/en
   github: Niconiki99

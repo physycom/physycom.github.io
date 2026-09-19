@@ -4,7 +4,7 @@ image: https://github.com/AldoCanfora.png
 role: phd
 order: 21
 category: current
-affiliation: University of Bologna - CINECA
+affiliation: University of Bologna - INFN Bologna - CINECA
 links:
   home-page: https://www.unibo.it/sitoweb/aldo.canfora2/en
   github: AldoCanfora
