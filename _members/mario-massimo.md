@@ -4,7 +4,7 @@ image: images/mario_massimo.jpeg
 role: phd
 order: 26
 category: current
-affiliation: University of Bologna 
+affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/mario.massimo2/en
   github: TheMariuolo

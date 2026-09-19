@@ -4,7 +4,7 @@ image: https://github.com/puccj.png
 role: phd
 order: 24
 category: current
-affiliation: University of Bologna
+affiliation: University of Bologna - INFN Bologna
 links:
   home-page: https://www.unibo.it/sitoweb/daniele.pucci4/en
   github: puccj
