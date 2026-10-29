@@ -7,10 +7,13 @@
 # - start/end must carry the Europe/Rome offset (+01:00 in winter, +02:00 in summer time).
 # - Teams link: fill teams_url (shown only for future seminars).
 # - After a seminar: fill video_url, slides_url, paper_url (only with the speaker's approval).
-# - Mailing list: fill mailing_list_url with the subscription page of the institutional service.
+# - Mailing list: fill mailing_list_url with the subscription page of the service (it replaces the email request below).
+# - Until then, interest_email is the address that receives requests to be added to the announcements
+#   (use an alias that reaches the organisers; remove it to show "registration will open soon" instead).
 
 youtube_channel_url: https://www.youtube.com/@CityScienceLabBologna
 mailing_list_url: ""
+interest_email: mirko.degliesposti@unibo.it
 
 talks:
   - id: 2026-11-10-riazi
