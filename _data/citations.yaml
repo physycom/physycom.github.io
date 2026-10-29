@@ -1764,3 +1764,56 @@
   pages: 75-77
   plugin: sources.py
   file: sources.yaml
+- title: "Animarium: an open, reproducible pipeline for synthetic populations of Italian cities — from ISTAT sources to open data"
+  authors:
+  - Mirko Degli Esposti
+  publisher: "Preprint"
+  date: '2026-01-01'
+  link: https://animarium.it/preprint.pdf
+  type: preprint
+  description: "Preprint presenting the Animarium system and the collection of synthetic populations of Italian cities."
+  tags:
+  - synthetic populations
+  - reproducibility
+  - open data
+  plugin: sources.py
+  file: sources.yaml
+- title: "Animarium: Technical Report Version 1"
+  authors:
+  - Mirko Degli Esposti
+  publisher: "Technical report v1.0, University of Bologna. arXiv:2608.27111"
+  date: '2026-01-01'
+  link: https://arxiv.org/abs/2608.27111
+  type: preprint
+  description: "Technical report on the Animarium pipeline (arXiv:2608.27111, https://doi.org/10.48550/arXiv.2608.27111)."
+  tags:
+  - synthetic populations
+  - technical report
+  plugin: sources.py
+  file: sources.yaml
+- title: "Scalable Maximum Entropy Population Synthesis via Persistent Contrastive Divergence"
+  authors:
+  - Mirko Degli Esposti
+  publisher: "Preprint, arXiv:2603.27312"
+  date: '2026-01-01'
+  link: https://arxiv.org/abs/2603.27312
+  type: preprint
+  description: "Solver, method and benchmarks for maximum-entropy population synthesis (https://doi.org/10.48550/arXiv.2603.27312)."
+  tags:
+  - synthetic populations
+  - maximum entropy
+  plugin: sources.py
+  file: sources.yaml
+- title: "Calibrating the Instrument: Controllability of an LLM-Driven Synthetic Population"
+  authors:
+  - Mirko Degli Esposti
+  publisher: "Preprint, arXiv:2607.00910"
+  date: '2026-01-01'
+  link: https://arxiv.org/abs/2607.00910
+  type: preprint
+  description: "Controllability and internal validity of an LLM-driven simulation instrument (https://doi.org/10.48550/arXiv.2607.00910)."
+  tags:
+  - synthetic populations
+  - LLM agents
+  plugin: sources.py
+  file: sources.yaml

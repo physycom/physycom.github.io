@@ -1,0 +1,60 @@
+# Synthetic Populations Seminar Series (page: seminars/synthetic-populations/)
+#
+# To maintain the programme edit only this file. Empty values are not shown.
+# - Add a talk: copy a block under "talks". Keep "id" stable (it is used in the calendar file).
+# - date_confirmed: false -> no date, no calendar file; use date_options for the candidate dates.
+# - online_only: true -> talk shown as online only (no venue in the calendar file).
+# - start/end must carry the Europe/Rome offset (+01:00 in winter, +02:00 in summer time).
+# - Teams link: fill teams_url (shown only for future seminars).
+# - After a seminar: fill video_url, slides_url, paper_url (only with the speaker's approval).
+# - Mailing list: fill mailing_list_url with the subscription page of the institutional service.
+
+youtube_channel_url: https://www.youtube.com/@CityScienceLabBologna
+mailing_list_url: ""
+
+talks:
+  - id: 2026-11-10-riazi
+    date_confirmed: true
+    date: 2026-11-10
+    start: "2026-11-10T16:00:00+01:00"
+    end: "2026-11-10T17:00:00+01:00"
+    speaker: Maryam Riazi
+    affiliation: City Science Laboratory, Department of Physics and Astronomy, University of Bologna
+    title: "Synthetic Population for Bologna: Maximum-Entropy Approach via Persistent Contrastive Divergence on Heterogeneous ISTAT Data"
+    abstract: ""
+    teams_url: ""
+    video_url: ""
+    slides_url: ""
+    paper_url: https://amslaurea.unibo.it/id/eprint/39867/
+
+  - id: 2026-11-24-scarpa
+    date_confirmed: true
+    date: 2026-11-24
+    start: "2026-11-24T16:00:00+01:00"
+    end: "2026-11-24T17:00:00+01:00"
+    speaker: Silvia Scarpa
+    affiliation: University of Modena and Reggio Emilia
+    title: Evaluating synthetic population approaches for Italian municipal-level microdata
+    abstract: ""
+    teams_url: ""
+    video_url: ""
+    slides_url: ""
+    paper_url: https://doi.org/10.1016/j.seps.2026.102547
+
+  - id: 2026-12-15-garrone
+    date_confirmed: true
+    online_only: true
+    date: 2026-12-15
+    start: "2026-12-15T16:00:00+01:00"
+    end: "2026-12-15T17:00:00+01:00"
+    speaker: Roberto Garrone
+    affiliation: Open University of Cyprus
+    title: Synthetic populations as initial conditions for agent-based models
+    abstract: >-
+      Synthetic populations are usually discussed in terms of how they are generated. This talk takes a complementary perspective, focusing on their use as initial conditions for agent-based models.
+      The starting point is the recent study "When Does the Seed Stop Mattering?", which compares IPF and MaxEnt using AVQ and POSAS data for 1,255 municipalities of Piedmont and Aosta Valley. The discussion centres on the relationship between local information, statistical dependencies inherited from the donor, and the accuracy of the reconstruction.
+      From there, the talk turns to the initialisation of agent-based models, using AWSim as an application case to introduce an open question: which properties of the synthetic population must actually be preserved for the conclusions of a simulation to remain reliable?
+    teams_url: ""
+    video_url: ""
+    slides_url: ""
+    paper_url: ""
