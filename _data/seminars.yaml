@@ -24,7 +24,12 @@ talks:
     speaker: Maryam Riazi
     affiliation: City Science Laboratory, Department of Physics and Astronomy, University of Bologna
     title: "Synthetic Population for Bologna: Maximum-Entropy Approach via Persistent Contrastive Divergence on Heterogeneous ISTAT Data"
-    abstract: ""
+    abstract: >-
+      Synthetic populations are needed where census microdata are unavailable and individual privacy must be preserved. This talk presents a synthetic population of 500,000 inhabitants for the Comune of Bologna, each described by 34 categorical attributes (about 2.6 × 10^19 possible profiles) and built from aggregate ISTAT tables alone.
+
+      The population is generated with GibbsPCDSolver, a stochastic maximum-entropy solver based on Persistent Contrastive Divergence that remains tractable for a large number of attributes. The central difficulty is dealing with real-world heterogeneous data: the ISTAT tables are published at five geographical levels and contradict one another, so no joint distribution can satisfy all targets at once. A reliability-weighting scheme is proposed to handle the residual error. A further requirement is that no individual be logically impossible; a Metropolis–Hastings move that transposes an entire block of attributes in one step removes such cases, and four diagnostic tools support the analysis.
+
+      The resulting population contains no logically impossible individual and retains full diversity, a property that reweighting methods such as raking lose and that downstream agent-based simulations of Bologna require.
     teams_url: ""
     video_url: ""
     slides_url: ""
@@ -38,7 +43,10 @@ talks:
     speaker: Silvia Scarpa
     affiliation: University of Modena and Reggio Emilia
     title: Evaluating synthetic population approaches for Italian municipal-level microdata
-    abstract: ""
+    abstract: >-
+      Policy evaluation at small-area level calls for fine-scale microdata, but available sources pull in opposite directions: socio-economic surveys offer rich individual and household information only at coarse geographic levels, while administrative sources give detailed local counts with limited variable depth.
+
+      This talk addresses this trade-off by implementing and comparing deterministic (Iterative Proportional Fitting, Generalized Regression) and probabilistic (Simulated Annealing) reweighting algorithms that align survey weights with known population benchmarks. As an application, a spatially disaggregated synthetic population of the residents of the municipalities of the Emilia-Romagna region is built from the Italian EU-SILC data. The comparison highlights the trade-off between the computational efficiency of deterministic methods and the precision of probabilistic approaches, and offers practical guidance for spatial microsimulation on method fidelity, computational resources and statistical accuracy.
     teams_url: ""
     video_url: ""
     slides_url: ""
@@ -55,7 +63,9 @@ talks:
     title: Synthetic populations as initial conditions for agent-based models
     abstract: >-
       Synthetic populations are usually discussed in terms of how they are generated. This talk takes a complementary perspective, focusing on their use as initial conditions for agent-based models.
+
       The starting point is the recent study "When Does the Seed Stop Mattering?", which compares IPF and MaxEnt using AVQ and POSAS data for 1,255 municipalities of Piedmont and Aosta Valley. The discussion centres on the relationship between local information, statistical dependencies inherited from the donor, and the accuracy of the reconstruction.
+
       From there, the talk turns to the initialisation of agent-based models, using AWSim as an application case to introduce an open question: which properties of the synthetic population must actually be preserved for the conclusions of a simulation to remain reliable?
     teams_url: ""
     video_url: ""

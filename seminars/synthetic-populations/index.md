@@ -16,7 +16,7 @@ description: "Synthetic Populations Seminar Series at the City Science Laborator
 <div class="eyebrow"><span class="eyebrow-dot"></span>Research seminars · Autumn 2026</div>
 <h1 id="series-title">Synthetic<br>Populations</h1>
 <p class="hero-subtitle">Methods, validation and applications.</p>
-<div class="hero-bottom"><a class="hero-link" href="#programme">Explore the programme <span aria-hidden="true">↓</span></a><span class="hero-edition">Bologna &amp; online</span></div>
+<div class="hero-bottom"><a class="hero-link" href="#programme">Explore the programme <span aria-hidden="true">↓</span></a><a class="hero-link" href="#mailing-list">Stay informed <span aria-hidden="true">↓</span></a><span class="hero-edition">Bologna &amp; online</span></div>
 </div>
 <div class="population" aria-hidden="true">
 {% include sp-population.html %}
