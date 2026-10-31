@@ -97,7 +97,7 @@ description: "Synthetic Populations Seminar Series at the City Science Laborator
 <p class="newsletter-note">You can unsubscribe at any time using the link in each announcement.</p>
 {% elsif sem.interest_email != "" and sem.interest_email %}
 <a class="action action-primary" href="mailto:{{ sem.interest_email }}?subject=Synthetic%20Populations%20Seminar%20Series%3A%20announcements&amp;body=Please%20add%20me%20to%20the%20seminar%20announcements.%0A%0AName%20and%20affiliation%20(optional)%3A%20" >Request announcements by email <span aria-hidden="true">↗</span></a>
-<p class="newsletter-status">Send us an email and we will add you to the announcement list. Automatic mailing list registration will open soon.</p>
+<p class="newsletter-status">Send us an email and we will add you to the announcement list.</p>
 <p class="newsletter-note">Your email address (and, if you provide them, your name and affiliation) will be used only to send announcements of this seminar series and will not be shared with third parties. You can ask to be removed at any time.</p>
 {% else %}
 <p class="newsletter-status">Mailing list registration will open soon.</p>
