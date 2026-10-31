@@ -24,6 +24,20 @@ We develop large-scale simulations of vehicular traffic in cities such as Bologn
 Using national railway data, we construct models to reproduce and predict train delay distributions. The aim is to understand systemic inefficiencies and provide data-driven insights for enhancing network reliability and punctuality.
 
 
+<h2 style="color: blue; text-align: left;">Synthetic Populations and Urban Digital Twins</h2>
+
+<h3 style="color: black; text-align: left;">Population Synthesis from Official Statistics</h3>
+We build geographically detailed synthetic populations, individual-level reconstructions of real populations obtained from official statistics, registers and surveys so as to reproduce selected statistical characteristics. Individuals and households provide the demographic and social component of urban digital twins, linking census and socioeconomic data to computational models of the city.
+
+<h3 style="color: black; text-align: left;">Maximum Entropy, Data Integration and Validation</h3>
+We develop maximum-entropy methods for population synthesis that integrate heterogeneous sources and scale to large populations, with attention to reproducibility, uncertainty and the assessment of quality and model validity. A synthetic population reproduces the constraints it is given; which further features of the real population can be recovered from the available data remains an open question that we treat explicitly.
+
+<h3 style="color: black; text-align: left;">Agent-Based Models, LLM Agents and Generative AI</h3>
+Synthetic populations are the starting point for agent-based simulation, including agents driven by large language models, and for generative approaches to population synthesis. We study how controllable and internally consistent such simulation instruments are, with applications to urban systems, health, economics and communication. We also address the computational challenges of generating, simulating and analysing large populations efficiently on high-performance computing systems.
+
+Our work is accompanied by the open [Animarium](https://animarium.it/) viewer, the [GSP](https://github.com/mirko-degli-esposti/gsp) population generation pipeline and the [Synthetic Populations Seminar Series]({{ '/seminars/synthetic-populations/' | relative_url }}).
+
+
 <h2 style="color: blue; text-align: left;">Urban Energy and Vegetation</h2>
 
 <h3 style="color: black; text-align: left;">Building Energy Simulation</h3>
