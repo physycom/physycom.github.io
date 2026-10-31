@@ -59,7 +59,7 @@ talks:
     start: "2026-12-15T16:00:00+01:00"
     end: "2026-12-15T17:00:00+01:00"
     speaker: Roberto Garrone
-    affiliation: Open University of Cyprus
+    affiliation: University of Milano-Bicocca
     title: Synthetic populations as initial conditions for agent-based models
     abstract: >-
       Synthetic populations are usually discussed in terms of how they are generated. This talk takes a complementary perspective, focusing on their use as initial conditions for agent-based models.
