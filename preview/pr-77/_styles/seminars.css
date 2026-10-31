@@ -413,6 +413,9 @@
   }
 }
 @media (max-width: 800px) {
+  .sp section {
+    padding-inline: 0;
+  }
   .sp .wrap {
     padding-inline: 28px;
   }
@@ -423,7 +426,7 @@
     gap: 4px;
   }
   .sp .hero h1 {
-    font-size: 65px;
+    font-size: clamp(44px, 8.5vw, 65px);
   }
   .sp .population {
     min-width: 190px;
@@ -469,7 +472,7 @@
     z-index: 1;
   }
   .sp .hero h1 {
-    font-size: 66px;
+    font-size: clamp(34px, 13.5vw, 66px);
     margin-top: 22px;
     max-width: 350px;
   }
@@ -524,30 +527,37 @@
   }
   .sp .section-head {
     margin-bottom: 25px;
+    flex-direction: column;
     align-items: start;
+    gap: 10px;
   }
   .sp .season {
     font-size: 9px;
-    padding-top: 8px;
-    text-align: right;
   }
   .sp .programme {
     padding-block: 38px;
   }
   .sp .talk {
-    grid-template-columns: 64px 1fr;
-    gap: 18px;
+    grid-template-columns: 1fr;
+    gap: 12px;
     padding-block: 27px;
   }
+  .sp .talk-date, .sp .talk-date time {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 2px 10px;
+  }
   .sp .date-day {
-    font-size: 43px;
+    font-size: 38px;
   }
   .sp .date-month {
     font-size: 9px;
-    margin-top: 8px;
+    margin-top: 0;
   }
   .sp .date-time {
     font-size: 10px;
+    margin-top: 0;
   }
   .sp .talk h3 {
     font-size: 23px;
@@ -582,9 +592,11 @@
   }
   .sp .date-pending {
     font-size: 20px;
+    max-width: none;
   }
   .sp .date-options {
     font-size: 10px;
+    margin-top: 0;
   }
   .sp .attend {
     padding-block: 34px;
