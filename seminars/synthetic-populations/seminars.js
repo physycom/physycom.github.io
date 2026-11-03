@@ -41,7 +41,7 @@
         `UID:${t.id}@physycom.github.io`, `DTSTAMP:${utc(new Date().toISOString())}`,
         `DTSTART:${utc(t.start)}`, `DTEND:${utc(t.end)}`,
         `SUMMARY:${icalEscape(t.speaker + ': ' + t.title)}`,
-        `LOCATION:${icalEscape(t.online_only ? 'Online (Microsoft Teams)' : 'Aula Teorici, first floor, via Irnerio 46, Bologna, Italy')}`,
+        `LOCATION:${icalEscape(t.online_only ? 'Online (Microsoft Teams)' : 'Aula Teorici, second floor, via Irnerio 46, Bologna, Italy')}`,
         `DESCRIPTION:${icalEscape(description)}`, 'STATUS:CONFIRMED', 'END:VEVENT', 'END:VCALENDAR'
       ];
       const blob = new Blob([lines.map(fold).join('\r\n') + '\r\n'], { type: 'text/calendar;charset=utf-8' });
