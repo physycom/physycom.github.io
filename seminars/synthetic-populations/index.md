@@ -26,7 +26,7 @@ description: "Synthetic Populations Seminar Series at the City Science Laborator
 <div class="wrap">
 <section class="info" aria-label="Seminar information">
 <div><div class="info-label">When</div><div class="info-value">Tuesdays · 16:00<br><span class="info-sub">Europe/Rome</span></div></div>
-<div><div class="info-label">Where</div><div class="info-value">Aula Teorici · First floor<br><span class="info-sub">Via Irnerio 46, Bologna</span></div></div>
+<div><div class="info-label">Where</div><div class="info-value">Aula Teorici · Second floor<br><span class="info-sub">Via Irnerio 46, Bologna</span></div></div>
 <div><div class="info-label">Format</div><div class="info-value">In person &amp; online<br><span class="info-sub">Online via Microsoft Teams</span></div></div>
 <div><div class="info-label">Language</div><div class="info-value">English</div></div>
 </section>
@@ -80,7 +80,7 @@ description: "Synthetic Populations Seminar Series at the City Science Laborator
 <div><span class="section-number">03 / JOIN US</span><h2 class="section-title" id="attend-title">Attend a seminar</h2></div>
 <div>
 <div class="attend-columns">
-<div><h3>In Bologna</h3><p>Aula Teorici, first floor<br>Department of Physics and Astronomy<br>University of Bologna<br>Via Irnerio 46, Bologna, Italy</p><a class="small-link" href="https://www.openstreetmap.org/search?query=Via%20Irnerio%2046%2C%20Bologna" target="_blank" rel="noopener noreferrer">Find the venue <span aria-hidden="true">↗</span></a></div>
+<div><h3>In Bologna</h3><p>Aula Teorici, second floor<br>Department of Physics and Astronomy<br>University of Bologna<br>Via Irnerio 46, Bologna, Italy</p><a class="small-link" href="https://www.openstreetmap.org/search?query=Via%20Irnerio%2046%2C%20Bologna" target="_blank" rel="noopener noreferrer">Find the venue <span aria-hidden="true">↗</span></a></div>
 <div><h3>Online</h3><p>Join via the Microsoft Teams link listed with each seminar. All times are given in Europe/Rome. The seminars are held in English, with discussion following the presentation.</p><a class="small-link" href="mailto:mirko.degliesposti@unibo.it">Contact the organiser <span aria-hidden="true">↗</span></a></div>
 </div>
 <div class="recordings-note" id="recordings">Recordings and materials will be linked alongside each talk when available, subject to the speaker’s approval.{% if sem.youtube_channel_url != "" %} <a href="{{ sem.youtube_channel_url }}" target="_blank" rel="noopener noreferrer">Visit our YouTube channel ↗</a>{% endif %}</div>
