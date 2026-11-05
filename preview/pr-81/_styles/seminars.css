@@ -43,6 +43,23 @@
 .sp .action, .sp .hero-link {
   text-decoration: none;
 }
+.sp .hero-inner {
+  position: relative;
+}
+.sp .dept-logo {
+  position: absolute;
+  top: 2px;
+  right: 76px;
+  z-index: 1;
+  display: block;
+  width: clamp(200px, 26vw, 340px);
+  border: 0;
+}
+.sp .dept-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .sp .hero {
   background: var(--ink);
   color: var(--paper);
@@ -413,6 +430,10 @@
   }
 }
 @media (max-width: 800px) {
+  .sp .dept-logo {
+    right: 28px;
+    top: 26px;
+  }
   .sp section {
     padding-inline: 0;
   }
@@ -457,6 +478,14 @@
   }
 }
 @media (max-width: 560px) {
+  .sp .dept-logo {
+    right: 22px;
+    top: 22px;
+    width: 180px;
+  }
+  .sp .hero-copy {
+    padding-top: 48px;
+  }
   .sp .wrap {
     padding-inline: 22px;
   }
@@ -610,6 +639,9 @@
   }
 }
 @media print {
+  .sp .dept-logo img {
+    filter: invert(1);
+  }
   .sp .population, .sp .talk-actions, .sp .hero-bottom {
     display: none;
   }
