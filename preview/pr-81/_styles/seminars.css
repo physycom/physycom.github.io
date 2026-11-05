@@ -45,20 +45,26 @@
 }
 .sp .hero-inner {
   position: relative;
+  --logo-w:clamp(200px,26vw,340px);
+  --logo-top:12px;
 }
 .sp .dept-logo {
   position: absolute;
-  top: 2px;
+  top: var(--logo-top);
   right: 76px;
   z-index: 1;
   display: block;
-  width: clamp(200px, 26vw, 340px);
+  width: var(--logo-w);
   border: 0;
 }
 .sp .dept-logo img {
   display: block;
   width: 100%;
   height: auto;
+}
+.sp .population {
+  align-self: start;
+  margin-top: calc(var(--logo-top) + var(--logo-w) * 0.348 + 36px - 48px);
 }
 .sp .hero {
   background: var(--ink);
@@ -430,9 +436,14 @@
   }
 }
 @media (max-width: 800px) {
+  .sp .hero-inner {
+    --logo-top:26px;
+  }
   .sp .dept-logo {
     right: 28px;
-    top: 26px;
+  }
+  .sp .population {
+    margin-top: calc(var(--logo-top) + var(--logo-w) * 0.348 + 36px - 38px);
   }
   .sp section {
     padding-inline: 0;
@@ -484,7 +495,10 @@
     width: 180px;
   }
   .sp .hero-copy {
-    padding-top: 48px;
+    padding-top: 72px;
+  }
+  .sp .population {
+    margin-top: 0;
   }
   .sp .wrap {
     padding-inline: 22px;
