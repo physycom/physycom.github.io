@@ -12,6 +12,7 @@ description: "Synthetic Populations Seminar Series at the City Science Laborator
 <div class="sp">
 <section class="hero" aria-labelledby="series-title">
 <div class="wrap hero-inner">
+<a class="dept-logo" href="https://fisica-astronomia.unibo.it/en" aria-label="Department of Physics and Astronomy, University of Bologna"><img src="{{ '/images/dipartimento_fisica_astronomia_white.png' | relative_url }}" alt="Department of Physics and Astronomy, University of Bologna" width="1000" height="348"></a>
 <div class="hero-copy">
 <div class="eyebrow"><span class="eyebrow-dot"></span>Research seminars · Autumn 2026</div>
 <h1 id="series-title">Synthetic<br>Populations</h1>
